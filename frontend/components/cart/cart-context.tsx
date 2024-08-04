@@ -139,7 +139,6 @@ function cartReducer(state: Cart | undefined, action: CartAction): Cart {
       const updatedLines = existingItem
         ? currentCart.lines.map((item) => (item.merchandise.id === variant.id ? updatedItem : item))
         : [...currentCart.lines, updatedItem];
-      console.log({action, existingItem, updatedItem, updatedLines})
 
       return { ...currentCart, ...updateCartTotals(updatedLines), lines: updatedLines };
     }
@@ -156,14 +155,11 @@ export function CartProvider({ children, cartId }: { children: React.ReactNode; 
   const [state, dispatch] = useReducer(cartReducer, initialCart);
 
   const updateCartItem = (merchandiseId: string, updateType: UpdateType) => {
-    console.log({merchandiseId, updateType})
     dispatch({ type: 'UPDATE_ITEM', payload: { merchandiseId, updateType } });
   };
 
   const addCartItem = (variant: ProductVariant, product: Product) => {
-    console.log({variant, product})
     dispatch({ type: 'ADD_ITEM', payload: { variant, product } });
-    console.log({state})
   };
 
   const value = useMemo(() => {
