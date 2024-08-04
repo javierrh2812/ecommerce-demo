@@ -1,4 +1,5 @@
 import { Cart, Collection, Menu, Page, Product } from 'lib/types';
+import products from '../../app/products.json';
 
 export const CART: Cart = {
   id: 'cartid',
@@ -54,11 +55,14 @@ export async function getCollectionProducts({
   reverse?: boolean;
   sortKey?: string;
 }): Promise<Product[]> {
-  return [
-    ...PRODUCTS,
-    ...PRODUCTS,
-    ...PRODUCTS,
-  ];
+  if (collection === 'hidden-homepage-carousel') {
+    var shuffled = products.sort(function(){ return 0.5 - Math.random() });
+    var selected = shuffled.slice(0,4);
+    return selected
+  } else if (collection === 'hidden-homepage-featured-items') {
+    return products.slice(0, 3);
+  }
+  return products
 }
 
 export async function getCollections(): Promise<any[]> {

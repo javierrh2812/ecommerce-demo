@@ -1,0 +1,5321 @@
+[
+  {
+    "id": "AP000034_m",
+    "type": "dogs",
+    "handle": "canbo-adulto-cordero-razas-medgran-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Canbo Adulto Cordero Razas Med/Gran Alimento Seco Perro",
+    "description": "Alimento seco sabor a cordero, la mejor elecci\u00f3n para tu consentido engre\u00eddo. Con cordero, 26% de prote\u00edna, vitaminas y minerales, estas croquetas ideales para razas medianas y grandes le brindan a tu consentido inmunidad, dientes brillantes y desarrollo muscular. Combaten enfermedades cardiovasculares con antioxidantes naturales, omega 3 y 6, y la fibra prebi\u00f3tica y Yucca Schidigera reducen olores. \u00a1Mima a tu compa\u00f1ero con Canbo para una vida adulta plena!",
+    "descriptionHtml": "Alimento seco sabor a cordero, la mejor elecci\u00f3n para tu consentido engre\u00eddo. Con cordero, 26% de prote\u00edna, vitaminas y minerales, estas croquetas ideales para razas medianas y grandes le brindan a tu consentido inmunidad, dientes brillantes y desarrollo muscular. Combaten enfermedades cardiovasculares con antioxidantes naturales, omega 3 y 6, y la fibra prebi\u00f3tica y Yucca Schidigera reducen olores. \u00a1Mima a tu compa\u00f1ero con Canbo para una vida adulta plena!",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw683c8daf/images/-canbo-adulto-cordero-razas-med-gran.jpg",
+      "altText": "Canbo Adulto Cordero Razas Med/Gran Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "56.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "56.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw683c8daf/images/-canbo-adulto-cordero-razas-med-gran.jpg",
+        "altText": "Canbo Adulto Cordero Razas Med/Gran Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwd5d98d73/images/-canbo-adulto-cordero-razas-med-gran2.jpg",
+        "altText": "Canbo Adulto Cordero Razas Med/Gran Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Adulto Cordero Razas Med/Gran Alimento Seco Perro",
+      "description": "Alimento seco sabor a cordero, la mejor elecci\u00f3n para tu consentido engre\u00eddo. Con cordero, 26% de prote\u00edna, vitaminas y minerales, estas croquetas ideales para razas medianas y grandes le brindan a tu consentido inmunidad, dientes brillantes y desarrollo muscular. Combaten enfermedades cardiovasculares con antioxidantes naturales, omega 3 y 6, y la fibra prebi\u00f3tica y Yucca Schidigera reducen olores. \u00a1Mima a tu compa\u00f1ero con Canbo para una vida adulta plena!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "214.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "56.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000791_m",
+    "type": "dogs",
+    "handle": "dogxtreme-adulto-cordero-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Dogxtreme Adulto Cordero Alimento Seco Perro",
+    "description": "Para perros adultos de todas las razas, elaborado con cordero como ingrediente principal, que facilita la digesti\u00f3n para una mejor absorci\u00f3n de nutrientes, y promueve un pelo y pelaje m\u00e1s brillante y sano.",
+    "descriptionHtml": "Para perros adultos de todas las razas, elaborado con cordero como ingrediente principal, que facilita la digesti\u00f3n para una mejor absorci\u00f3n de nutrientes, y promueve un pelo y pelaje m\u00e1s brillante y sano.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "12 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwca1a957c/images/AP000791_m.jpg",
+      "altText": "Dogxtreme Adulto Cordero Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "12 Kg",
+        "title": "12 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "12 Kg"
+          }
+        ],
+        "price": {
+          "amount": "52.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "52.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwca1a957c/images/AP000791_m.jpg",
+        "altText": "Dogxtreme Adulto Cordero Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Dogxtreme Adulto Cordero Alimento Seco Perro",
+      "description": "Para perros adultos de todas las razas, elaborado con cordero como ingrediente principal, que facilita la digesti\u00f3n para una mejor absorci\u00f3n de nutrientes, y promueve un pelo y pelaje m\u00e1s brillante y sano."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "169.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "52.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000035_m",
+    "type": "dogs",
+    "handle": "canbo-adulto-cordero-razas-pequenas",
+    "availableForSale": true,
+    "title": "Canbo Adulto Cordero razas peque\u00f1as",
+    "description": "Alimento seco para perros de razas peque\u00f1as sabor cordero, croquetas premium con 28% de prote\u00edna y 17% de grasas. Dise\u00f1adas para promover una aprehensi\u00f3n y degluci\u00f3n \u00f3ptimas, con concentraci\u00f3n energ\u00e9tica adecuada. Vitaminas, minerales org\u00e1nicos, antioxidantes, omega 3 y 6, fibra prebi\u00f3tica y Yucca Schidigera para razas activas. 100% completo y balanceado, \u00a1nutre a tus engre\u00eddos con lo mejor de Canbo!",
+    "descriptionHtml": "Alimento seco para perros de razas peque\u00f1as sabor cordero, croquetas premium con 28% de prote\u00edna y 17% de grasas. Dise\u00f1adas para promover una aprehensi\u00f3n y degluci\u00f3n \u00f3ptimas, con concentraci\u00f3n energ\u00e9tica adecuada. Vitaminas, minerales org\u00e1nicos, antioxidantes, omega 3 y 6, fibra prebi\u00f3tica y Yucca Schidigera para razas activas. 100% completo y balanceado, \u00a1nutre a tus engre\u00eddos con lo mejor de Canbo!",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "7 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw4418997f/images/-canbo-adulto-cordero-razas-peq.jpg",
+      "altText": "Canbo Adulto Cordero razas peque\u00f1as, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "7 Kg",
+        "title": "7 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "7 Kg"
+          }
+        ],
+        "price": {
+          "amount": "56.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "56.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw4418997f/images/-canbo-adulto-cordero-razas-peq.jpg",
+        "altText": "Canbo Adulto Cordero razas peque\u00f1as, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Adulto Cordero razas peque\u00f1as",
+      "description": "Alimento seco para perros de razas peque\u00f1as sabor cordero, croquetas premium con 28% de prote\u00edna y 17% de grasas. Dise\u00f1adas para promover una aprehensi\u00f3n y degluci\u00f3n \u00f3ptimas, con concentraci\u00f3n energ\u00e9tica adecuada. Vitaminas, minerales org\u00e1nicos, antioxidantes, omega 3 y 6, fibra prebi\u00f3tica y Yucca Schidigera para razas activas. 100% completo y balanceado, \u00a1nutre a tus engre\u00eddos con lo mejor de Canbo!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "113.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "56.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000793_m",
+    "type": "dogs",
+    "handle": "dogxtreme-adulto-salmon-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Dogxtreme Adulto Salm\u00f3n Alimento Seco Perro",
+    "description": "Para una mejora visible del pelaje del perro, ha sido elaborado con salm\u00f3n como ingrediente principal, que adem\u00e1s mejora la vitalidad de tu mascota.",
+    "descriptionHtml": "Para una mejora visible del pelaje del perro, ha sido elaborado con salm\u00f3n como ingrediente principal, que adem\u00e1s mejora la vitalidad de tu mascota.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "12 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw1dbf3c86/images/AP000793_m.jpg",
+      "altText": "Dogxtrene Salm\u00f3n",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "12 Kg",
+        "title": "12 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "12 Kg"
+          }
+        ],
+        "price": {
+          "amount": "59.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "59.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw1dbf3c86/images/AP000793_m.jpg",
+        "altText": "Dogxtrene Salm\u00f3n",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Dogxtreme Adulto Salm\u00f3n Alimento Seco Perro",
+      "description": "Para una mejora visible del pelaje del perro, ha sido elaborado con salm\u00f3n como ingrediente principal, que adem\u00e1s mejora la vitalidad de tu mascota."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "199.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "59.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000039_m",
+    "type": "dogs",
+    "handle": "canbo-cachorro-cordero-razas-pequenas-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Canbo Cachorro Cordero Razas Peque\u00f1as Alimento Seco Perro",
+    "description": "Alimento seco para Cachorros (0 a 12 meses) de razas peque\u00f1as. Las necesidades nutricionales de estos, son elevadas debido a su mayor demanda energ\u00e9tica por unidad de peso y est\u00f3magos m\u00e1s peque\u00f1os. Las f\u00f3rmulas para razas peque\u00f1as ofrecen densidad energ\u00e9tica y nutricional superior, con ingredientes de alta digestibilidad. Las croquetas dise\u00f1adas para bocas peque\u00f1as facilitan la masticaci\u00f3n y degluci\u00f3n. \u00a1Opta por el alimento ideal para el bienestar de tu cachorro peque\u00f1o!",
+    "descriptionHtml": "Alimento seco para Cachorros (0 a 12 meses) de razas peque\u00f1as. Las necesidades nutricionales de estos, son elevadas debido a su mayor demanda energ\u00e9tica por unidad de peso y est\u00f3magos m\u00e1s peque\u00f1os. Las f\u00f3rmulas para razas peque\u00f1as ofrecen densidad energ\u00e9tica y nutricional superior, con ingredientes de alta digestibilidad. Las croquetas dise\u00f1adas para bocas peque\u00f1as facilitan la masticaci\u00f3n y degluci\u00f3n. \u00a1Opta por el alimento ideal para el bienestar de tu cachorro peque\u00f1o!",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "7 Kg",
+          "1 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe027a71c/images/-canbo-cachorro-cordero-razas-peq.jpg",
+      "altText": "Canbo Cachorro Cordero Razas Peque\u00f1as Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "7 Kg",
+        "title": "7 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "7 Kg"
+          }
+        ],
+        "price": {
+          "amount": "22.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1 Kg",
+        "title": "1 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1 Kg"
+          }
+        ],
+        "price": {
+          "amount": "22.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe027a71c/images/-canbo-cachorro-cordero-razas-peq.jpg",
+        "altText": "Canbo Cachorro Cordero Razas Peque\u00f1as Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw773966fc/images/AP000039_m.jpg",
+        "altText": "Canbo Cachorro Cordero Razas Peque\u00f1as Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Cachorro Cordero Razas Peque\u00f1as Alimento Seco Perro",
+      "description": "Alimento seco para Cachorros (0 a 12 meses) de razas peque\u00f1as. Las necesidades nutricionales de estos, son elevadas debido a su mayor demanda energ\u00e9tica por unidad de peso y est\u00f3magos m\u00e1s peque\u00f1os. Las f\u00f3rmulas para razas peque\u00f1as ofrecen densidad energ\u00e9tica y nutricional superior, con ingredientes de alta digestibilidad. Las croquetas dise\u00f1adas para bocas peque\u00f1as facilitan la masticaci\u00f3n y degluci\u00f3n. \u00a1Opta por el alimento ideal para el bienestar de tu cachorro peque\u00f1o!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "111.2",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "22.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000037_m",
+    "type": "dogs",
+    "handle": "canbo-cachorro-cordero-razas-medgran",
+    "availableForSale": true,
+    "title": "Canbo Cachorro Cordero razas med/gran",
+    "description": "Alimento seco para perros de razas medianas y grandes, un alimento premium vital para el crecimiento. Completo y balanceado, cubre las necesidades nutricionales de cachorros (0-12 meses). Con prebi\u00f3ticos, DHA, EPA, y m\u00e1s para una f\u00f3rmula \u00f3ptima. Beneficios como vitaminas para inmunidad, prote\u00ednas para desarrollo muscular, glucosamina para articulaciones y omega 3 y 6 para desarrollo cognitivo. Adem\u00e1s, fibra prebi\u00f3tica y Yucca Schidigera para alta digestibilidad y reducci\u00f3n de olores. \u00a1Canbo cuida cada detalle para un inicio de vida saludable y feliz!",
+    "descriptionHtml": "Alimento seco para perros de razas medianas y grandes, un alimento premium vital para el crecimiento. Completo y balanceado, cubre las necesidades nutricionales de cachorros (0-12 meses). Con prebi\u00f3ticos, DHA, EPA, y m\u00e1s para una f\u00f3rmula \u00f3ptima. Beneficios como vitaminas para inmunidad, prote\u00ednas para desarrollo muscular, glucosamina para articulaciones y omega 3 y 6 para desarrollo cognitivo. Adem\u00e1s, fibra prebi\u00f3tica y Yucca Schidigera para alta digestibilidad y reducci\u00f3n de olores. \u00a1Canbo cuida cada detalle para un inicio de vida saludable y feliz!",
+    "options": [
+      {
+        "id": "Variation-ML_Peso\u00a0",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwbd189c94/images/AP000037_m.jpg",
+      "altText": "Canbo Cachorro Cordero razas med/gran, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "61.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "61.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwbd189c94/images/AP000037_m.jpg",
+        "altText": "Canbo Cachorro Cordero razas med/gran, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwa14779e2/images/AP000037_m-1.jpg",
+        "altText": "Canbo Cachorro Cordero razas med/gran, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Cachorro Cordero razas med/gran",
+      "description": "Alimento seco para perros de razas medianas y grandes, un alimento premium vital para el crecimiento. Completo y balanceado, cubre las necesidades nutricionales de cachorros (0-12 meses). Con prebi\u00f3ticos, DHA, EPA, y m\u00e1s para una f\u00f3rmula \u00f3ptima. Beneficios como vitaminas para inmunidad, prote\u00ednas para desarrollo muscular, glucosamina para articulaciones y omega 3 y 6 para desarrollo cognitivo. Adem\u00e1s, fibra prebi\u00f3tica y Yucca Schidigera para alta digestibilidad y reducci\u00f3n de olores. \u00a1Canbo cuida cada detalle para un inicio de vida saludable y feliz!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "232",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "61.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000270",
+    "type": "dogs",
+    "handle": "mio-cane-premium-adulto-15-kg",
+    "availableForSale": true,
+    "title": "Mio Cane Premium Adulto 15 kg",
+    "description": "Alimento premium para perro.\n Espec\u00edficamente dise\u00f1adas para mascotas en edad adulta.",
+    "descriptionHtml": "Alimento premium para perro.\n Espec\u00edficamente dise\u00f1adas para mascotas en edad adulta.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe4409c6d/images/mio-cane-premium-adulto.jpg",
+      "altText": "Mio Cane Premium Adulto 15 kg, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe4409c6d/images/mio-cane-premium-adulto.jpg",
+        "altText": "Mio Cane Premium Adulto 15 kg, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Mio Cane Premium Adulto 15 kg",
+      "description": "Alimento premium para perro.\n Espec\u00edficamente dise\u00f1adas para mascotas en edad adulta."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "162.5",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "162.5",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP001364_m",
+    "type": "dogs",
+    "handle": "pro-plan-piel-sensible-adulto-cordero-todas-las-razas",
+    "availableForSale": true,
+    "title": "Pro plan Piel Sensible Adulto Cordero Todas las Razas",
+    "description": "Alimento para perros con piel sensible",
+    "descriptionHtml": "Alimento para perros con piel sensible",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "7.5 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw49eacc07/images/AP001364_m.jpg",
+      "altText": "Pro plan Piel Sensible Adulto Cordero Todas las Razas, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "80.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "7.5 Kg",
+        "title": "7.5 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "7.5 Kg"
+          }
+        ],
+        "price": {
+          "amount": "80.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "80.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw49eacc07/images/AP001364_m.jpg",
+        "altText": "Pro plan Piel Sensible Adulto Cordero Todas las Razas, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Pro plan Piel Sensible Adulto Cordero Todas las Razas",
+      "description": "Alimento para perros con piel sensible"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "400.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "80.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP001143_m",
+    "type": "dogs",
+    "handle": "canbo-dog-food-senior-sb-pollo-todas-las-razas-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Canbo Dog Food Senior Sb Pollo Todas Las Razas Alimento Seco Perro",
+    "description": "Alimento seco sabor pollo y arroz para perros senior de todas las razas de 7 a\u00f1os a m\u00e1s.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales.",
+    "descriptionHtml": "Alimento seco sabor pollo y arroz para perros senior de todas las razas de 7 a\u00f1os a m\u00e1s.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw9a838e5c/images/canbo-dog-food-senior-sb-pollo-todas-las-razas-x-3-kg.jpg",
+      "altText": "Canbo Dog Food Senior Sb Pollo Todas Las Razas Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "61.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "61.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw9a838e5c/images/canbo-dog-food-senior-sb-pollo-todas-las-razas-x-3-kg.jpg",
+        "altText": "Canbo Dog Food Senior Sb Pollo Todas Las Razas Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw80848728/images/canbo-dog-food-senior-sb-pollo-todas-las-razas-x-3-kg2.jpg",
+        "altText": "Canbo Dog Food Senior Sb Pollo Todas Las Razas Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Dog Food Senior Sb Pollo Todas Las Razas Alimento Seco Perro",
+      "description": "Alimento seco sabor pollo y arroz para perros senior de todas las razas de 7 a\u00f1os a m\u00e1s.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "228",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "61.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000792_m",
+    "type": "dogs",
+    "handle": "dogxtreme-adulto-seniorlight-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Dogxtreme Adulto Senior/Light Alimento Seco Perro",
+    "description": "Elaborado para perros senior, debido a su actividad m\u00e1s reducida, su alimentaci\u00f3n tiene que aportarles los nutrientes necesario para mantenerse sanos, por ello este alimento se ha desarrollado para fomentar un mantenimiento sano de tu mascota.",
+    "descriptionHtml": "Elaborado para perros senior, debido a su actividad m\u00e1s reducida, su alimentaci\u00f3n tiene que aportarles los nutrientes necesario para mantenerse sanos, por ello este alimento se ha desarrollado para fomentar un mantenimiento sano de tu mascota.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "12 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw1debb439/images/AP000792_m.jpg",
+      "altText": "Dogxtreme Adulto Senior/Light Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "12 Kg",
+        "title": "12 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "12 Kg"
+          }
+        ],
+        "price": {
+          "amount": "50.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "50.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw1debb439/images/AP000792_m.jpg",
+        "altText": "Dogxtreme Adulto Senior/Light Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Dogxtreme Adulto Senior/Light Alimento Seco Perro",
+      "description": "Elaborado para perros senior, debido a su actividad m\u00e1s reducida, su alimentaci\u00f3n tiene que aportarles los nutrientes necesario para mantenerse sanos, por ello este alimento se ha desarrollado para fomentar un mantenimiento sano de tu mascota."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "165.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "50.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP001070",
+    "type": "dogs",
+    "handle": "hills-science-diet-adult-small-bites-cordero-y-arroz-703-kg",
+    "availableForSale": true,
+    "title": "Hill's Science Diet Adult Small Bites, cordero y arroz 7.03 kg",
+    "description": "Hill's Science Diet Adult Small Bites, cordero y arroz, es un alimento balanceado espec\u00edficamente formulado para perros de 1 a 6 a\u00f1os de edad. Con un delicioso sabor a cordero y arroz, brinda una nutrici\u00f3n de calidad que satisface las necesidades espec\u00edficas de tu mascota. Descubre la elecci\u00f3n perfecta para perros adultos en cada bocado.",
+    "descriptionHtml": "Hill's Science Diet Adult Small Bites, cordero y arroz, es un alimento balanceado espec\u00edficamente formulado para perros de 1 a 6 a\u00f1os de edad. Con un delicioso sabor a cordero y arroz, brinda una nutrici\u00f3n de calidad que satisface las necesidades espec\u00edficas de tu mascota. Descubre la elecci\u00f3n perfecta para perros adultos en cada bocado.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw7a35eab6/images/hills-sd-adult-lamb-rice-small-bites-155-lb-7kg-cordero-y-arroz.jpg",
+      "altText": "Hill's Science Diet Adult Small Bites, cordero y arroz 7.03 kg, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw7a35eab6/images/hills-sd-adult-lamb-rice-small-bites-155-lb-7kg-cordero-y-arroz.jpg",
+        "altText": "Hill's Science Diet Adult Small Bites, cordero y arroz 7.03 kg, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Hill's Science Diet Adult Small Bites, cordero y arroz 7.03 kg",
+      "description": "Hill's Science Diet Adult Small Bites, cordero y arroz, es un alimento balanceado espec\u00edficamente formulado para perros de 1 a 6 a\u00f1os de edad. Con un delicioso sabor a cordero y arroz, brinda una nutrici\u00f3n de calidad que satisface las necesidades espec\u00edficas de tu mascota. Descubre la elecci\u00f3n perfecta para perros adultos en cada bocado."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "223.92",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "223.92",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP001174_m",
+    "type": "dogs",
+    "handle": "canbo-dog-skin-protection-con-salmon-trz-ad-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Canbo Dog Skin Protection Con Salmon T.Rz Ad Alimento Seco Perro",
+    "description": "Alimento seco a base de salm\u00f3n como fuente de prote\u00edna altamente digerible para perros de todas las razas de 1 a 7 a\u00f1os de edad.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales.",
+    "descriptionHtml": "Alimento seco a base de salm\u00f3n como fuente de prote\u00edna altamente digerible para perros de todas las razas de 1 a 7 a\u00f1os de edad.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw45690424/images/canbo-dog-skin-protection-con-salmon-trz-ad-3kg.jpg",
+      "altText": "Canbo Dog Skin Protection Con Salmon T.Rz Ad Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "67.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "67.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw45690424/images/canbo-dog-skin-protection-con-salmon-trz-ad-3kg.jpg",
+        "altText": "Canbo Dog Skin Protection Con Salmon T.Rz Ad Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe70cf07c/images/canbo-dog-skin-protection-con-salmon-trz-ad-3kg2.jpg",
+        "altText": "Canbo Dog Skin Protection Con Salmon T.Rz Ad Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Dog Skin Protection Con Salmon T.Rz Ad Alimento Seco Perro",
+      "description": "Alimento seco a base de salm\u00f3n como fuente de prote\u00edna altamente digerible para perros de todas las razas de 1 a 7 a\u00f1os de edad.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "247",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "67.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000301_m",
+    "type": "dogs",
+    "handle": "proplan-adult-complete-razas-medianas-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Proplan Adult Complete Razas Medianas Alimento Seco Perro\u00a0",
+    "description": "Alimento Super Premium para perros adultos desde los 12 meses hasta los 7 a\u00f1os.\n Con carne fresca de pollo como ingrediente principal y desarrollado con la energ\u00eda que los perros de raza peque\u00f1a necesitan para mantenerse sanos y activos. Junto con una combinaci\u00f3n equilibrada de vitaminas y minerales para una piel y pelaje saludable.",
+    "descriptionHtml": "Alimento Super Premium para perros adultos desde los 12 meses hasta los 7 a\u00f1os.\n Con carne fresca de pollo como ingrediente principal y desarrollado con la energ\u00eda que los perros de raza peque\u00f1a necesitan para mantenerse sanos y activos. Junto con una combinaci\u00f3n equilibrada de vitaminas y minerales para una piel y pelaje saludable.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwddf261d9/images/-proplan-adulto-complete-3kg.jpg",
+      "altText": "Proplan Adult Complete Razas Medianas Alimento Seco Perro\u00a0, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "106.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "106.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwddf261d9/images/-proplan-adulto-complete-3kg.jpg",
+        "altText": "Proplan Adult Complete Razas Medianas Alimento Seco Perro\u00a0, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Proplan Adult Complete Razas Medianas Alimento Seco Perro\u00a0",
+      "description": "Alimento Super Premium para perros adultos desde los 12 meses hasta los 7 a\u00f1os.\n Con carne fresca de pollo como ingrediente principal y desarrollado con la energ\u00eda que los perros de raza peque\u00f1a necesitan para mantenerse sanos y activos. Junto con una combinaci\u00f3n equilibrada de vitaminas y minerales para una piel y pelaje saludable."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "395.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "106.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000310_m",
+    "type": "dogs",
+    "handle": "proplan-adult-sensitive-adulto-sensible-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Proplan Adult Sensitive Adulto Sensible Alimento Seco Perro",
+    "description": "Alimento seco para perros con piel sensible",
+    "descriptionHtml": "Alimento seco para perros con piel sensible",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw5e79ad54/images/-proplan-adulto-sensitive-3kg.jpg",
+      "altText": "Proplan Adult Sensitive Adulto Sensible Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "115.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "115.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw5e79ad54/images/-proplan-adulto-sensitive-3kg.jpg",
+        "altText": "Proplan Adult Sensitive Adulto Sensible Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Proplan Adult Sensitive Adulto Sensible Alimento Seco Perro",
+      "description": "Alimento seco para perros con piel sensible"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "424.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "115.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000209",
+    "type": "dogs",
+    "handle": "hills-sd-adult-lamb-rice-33-lb-cordero-y-arroz-1496-kg-7kg-gratis-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Hills Sd Adult Lamb & Rice 33 Lb Cordero Y Arroz (14.96 Kg) + 7Kg Gratis Alimento Seco Perro",
+    "description": "Hill's SD Adult Lamb & Rice es un alimento seco para perros super premium de Hill's Science Diet. Formulado con cordero y arroz, este producto est\u00e1 dise\u00f1ado espec\u00edficamente para perros adultos de 1 a 6 a\u00f1os de edad. Proporciona una nutrici\u00f3n completa y equilibrada para mantener la salud y el bienestar de tu mascota. Aprovecha esta oferta especial y br\u00edndale a tu perro la calidad que se merece.",
+    "descriptionHtml": "Hill's SD Adult Lamb & Rice es un alimento seco para perros super premium de Hill's Science Diet. Formulado con cordero y arroz, este producto est\u00e1 dise\u00f1ado espec\u00edficamente para perros adultos de 1 a 6 a\u00f1os de edad. Proporciona una nutrici\u00f3n completa y equilibrada para mantener la salud y el bienestar de tu mascota. Aprovecha esta oferta especial y br\u00edndale a tu perro la calidad que se merece.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwa36fa8a8/images/hills-sd-adult-lamb-rice-33-lb-15kg-cordero-y-arroz-7kg-gratis.jpg",
+      "altText": "Hills Sd Adult Lamb & Rice 33 Lb Cordero Y Arroz (14.96 Kg) + 7Kg Gratis Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwa36fa8a8/images/hills-sd-adult-lamb-rice-33-lb-15kg-cordero-y-arroz-7kg-gratis.jpg",
+        "altText": "Hills Sd Adult Lamb & Rice 33 Lb Cordero Y Arroz (14.96 Kg) + 7Kg Gratis Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Hills Sd Adult Lamb & Rice 33 Lb Cordero Y Arroz (14.96 Kg) + 7Kg Gratis Alimento Seco Perro",
+      "description": "Hill's SD Adult Lamb & Rice es un alimento seco para perros super premium de Hill's Science Diet. Formulado con cordero y arroz, este producto est\u00e1 dise\u00f1ado espec\u00edficamente para perros adultos de 1 a 6 a\u00f1os de edad. Proporciona una nutrici\u00f3n completa y equilibrada para mantener la salud y el bienestar de tu mascota. Aprovecha esta oferta especial y br\u00edndale a tu perro la calidad que se merece."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "411.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "411.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP001178_m",
+    "type": "dogs",
+    "handle": "true-origins-pure-dog-adult-chicken",
+    "availableForSale": true,
+    "title": "True Origins Pure Dog Adult Chicken",
+    "description": "Alimento seco para perros adultos con alto contenido en pollo rico en prote\u00ednas y vitaminas.",
+    "descriptionHtml": "Alimento seco para perros adultos con alto contenido en pollo rico en prote\u00ednas y vitaminas.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "12 Kg",
+          "3 Kg",
+          "500 g"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw01d1eae6/images/true-origins-pure-dog-adult-chicken-12-kg.jpg",
+      "altText": "True Origins Pure Dog Adult Chicken, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "12 Kg",
+        "title": "12 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "12 Kg"
+          }
+        ],
+        "price": {
+          "amount": "59.92",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "59.92",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "500 g",
+        "title": "500 g",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "500 g"
+          }
+        ],
+        "price": {
+          "amount": "59.92",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw01d1eae6/images/true-origins-pure-dog-adult-chicken-12-kg.jpg",
+        "altText": "True Origins Pure Dog Adult Chicken, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "True Origins Pure Dog Adult Chicken",
+      "description": "Alimento seco para perros adultos con alto contenido en pollo rico en prote\u00ednas y vitaminas."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "121.45",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "59.92",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000790_m",
+    "type": "dogs",
+    "handle": "dogxtreme-adulto-pollo-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Dogxtreme Adulto Pollo Alimento Seco Perro",
+    "description": "Elaborado para perros adultos de cualquier raza, con pollo como ingrediente principal para aportarle los nutrientes que necesita para tener energ\u00eda durante todo el d\u00eda, adem\u00e1s de mantener una musculatura fuerte.",
+    "descriptionHtml": "Elaborado para perros adultos de cualquier raza, con pollo como ingrediente principal para aportarle los nutrientes que necesita para tener energ\u00eda durante todo el d\u00eda, adem\u00e1s de mantener una musculatura fuerte.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "12 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw5b546f9f/images/AP000790_m.jpg",
+      "altText": "Dogxtreme Adulto Pollo Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "12 Kg",
+        "title": "12 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "12 Kg"
+          }
+        ],
+        "price": {
+          "amount": "50.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "50.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw5b546f9f/images/AP000790_m.jpg",
+        "altText": "Dogxtreme Adulto Pollo Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Dogxtreme Adulto Pollo Alimento Seco Perro",
+      "description": "Elaborado para perros adultos de cualquier raza, con pollo como ingrediente principal para aportarle los nutrientes que necesita para tener energ\u00eda durante todo el d\u00eda, adem\u00e1s de mantener una musculatura fuerte."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "165.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "50.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP001072_m",
+    "type": "dogs",
+    "handle": "wellness-core-perro-healthy-weight-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Wellness Core Perro Healthy Weight Alimento Seco Perro",
+    "description": "Alimento seco\nsabor a pavo\nbajo en calor\u00edas para perros adultos de tama\u00f1o grande y mediano.",
+    "descriptionHtml": "Alimento seco\nsabor a pavo\nbajo en calor\u00edas para perros adultos de tama\u00f1o grande y mediano.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "10 Kg",
+          "1.80 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwd4e7146b/images/wellness-core-perro-healthy-weight-18kg.jpg",
+      "altText": "Wellness Core Perro Healthy Weight Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "10 Kg",
+        "title": "10 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "10 Kg"
+          }
+        ],
+        "price": {
+          "amount": "63.92",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1.80 Kg",
+        "title": "1.80 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1.80 Kg"
+          }
+        ],
+        "price": {
+          "amount": "63.92",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwd4e7146b/images/wellness-core-perro-healthy-weight-18kg.jpg",
+        "altText": "Wellness Core Perro Healthy Weight Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Wellness Core Perro Healthy Weight Alimento Seco Perro",
+      "description": "Alimento seco\nsabor a pavo\nbajo en calor\u00edas para perros adultos de tama\u00f1o grande y mediano."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "209.93",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "63.92",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000014_m",
+    "type": "dogs",
+    "handle": "proplan-adult-7-adulto-mayores-de-7-anos-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Proplan Adult 7+ Adulto Mayores De 7 A\u00f1os Alimento Seco Perro\u00a0",
+    "description": "Alimento balanceado para perros mayores de 7 a\u00f1os de razas medianas y grandes.",
+    "descriptionHtml": "Alimento balanceado para perros mayores de 7 a\u00f1os de razas medianas y grandes.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw40ef2f1c/images/-proplan-adulto-mayores-de-7-aos-3kg.jpg",
+      "altText": "Proplan Adult 7+ Adulto Mayores De 7 A\u00f1os Alimento Seco Perro\u00a0, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "424.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "424.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw40ef2f1c/images/-proplan-adulto-mayores-de-7-aos-3kg.jpg",
+        "altText": "Proplan Adult 7+ Adulto Mayores De 7 A\u00f1os Alimento Seco Perro\u00a0, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Proplan Adult 7+ Adulto Mayores De 7 A\u00f1os Alimento Seco Perro\u00a0",
+      "description": "Alimento balanceado para perros mayores de 7 a\u00f1os de razas medianas y grandes."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "424.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "424.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000178_m",
+    "type": "dogs",
+    "handle": "hills-pd-kd-dry-cuidado-renal-alimento-medicado-perro",
+    "availableForSale": true,
+    "title": "Hills Pd K/D Dry Cuidado Renal Alimento Medicado Perro",
+    "description": "Hill's PD K/D Dry es un alimento seco medicado especialmente formulado para perros con problemas renales. Esta f\u00f3rmula nutricionalmente equilibrada ayuda a apoyar la salud renal de tu mascota, proporcionando los nutrientes necesarios para mantener la funci\u00f3n renal y mejorar la calidad de vida. \u00a1Brinda a tu perro el cuidado renal que necesita con este alimento de calidad!",
+    "descriptionHtml": "Hill's PD K/D Dry es un alimento seco medicado especialmente formulado para perros con problemas renales. Esta f\u00f3rmula nutricionalmente equilibrada ayuda a apoyar la salud renal de tu mascota, proporcionando los nutrientes necesarios para mantener la funci\u00f3n renal y mejorar la calidad de vida. \u00a1Brinda a tu perro el cuidado renal que necesita con este alimento de calidad!",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "8 Kg",
+          "3.9 Kg",
+          "1.5 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw69bae2b9/images/hills-pd-k-d-dry-33-lb-15kg-cudiado-renal.jpg",
+      "altText": "Hills Pd K/D Dry Cuidado Renal Alimento Medicado Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "8 Kg",
+        "title": "8 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "8 Kg"
+          }
+        ],
+        "price": {
+          "amount": "96.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3.9 Kg",
+        "title": "3.9 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3.9 Kg"
+          }
+        ],
+        "price": {
+          "amount": "96.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1.5 Kg",
+        "title": "1.5 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1.5 Kg"
+          }
+        ],
+        "price": {
+          "amount": "96.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw69bae2b9/images/hills-pd-k-d-dry-33-lb-15kg-cudiado-renal.jpg",
+        "altText": "Hills Pd K/D Dry Cuidado Renal Alimento Medicado Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Hills Pd K/D Dry Cuidado Renal Alimento Medicado Perro",
+      "description": "Hill's PD K/D Dry es un alimento seco medicado especialmente formulado para perros con problemas renales. Esta f\u00f3rmula nutricionalmente equilibrada ayuda a apoyar la salud renal de tu mascota, proporcionando los nutrientes necesarios para mantener la funci\u00f3n renal y mejorar la calidad de vida. \u00a1Brinda a tu perro el cuidado renal que necesita con este alimento de calidad!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "459.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "96.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP001141_m",
+    "type": "dogs",
+    "handle": "canbo-dog-food-adultos-sb-pollo-razas-medianas-y-grandes-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Canbo Dog Food Adultos Sb Pollo Razas Medianas Y Grandes Alimento Seco Perro",
+    "description": "Alimento seco sabor pollo y arroz para perros adultos de razas medianas y grandes de 1 a 7 a\u00f1os de edad.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales.",
+    "descriptionHtml": "Alimento seco sabor pollo y arroz para perros adultos de razas medianas y grandes de 1 a 7 a\u00f1os de edad.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw0f7b2d2d/images/canbo-dog-food-adultos-sb-pollo-rz-myg-x-3-kg.jpg",
+      "altText": "Canbo Dog Food Adultos Sb Pollo Razas Medianas Y Grandes Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "53.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "53.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw0f7b2d2d/images/canbo-dog-food-adultos-sb-pollo-rz-myg-x-3-kg.jpg",
+        "altText": "Canbo Dog Food Adultos Sb Pollo Razas Medianas Y Grandes Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe570db49/images/canbo-dog-food-adultos-sb-pollo-rz-myg-x-3-kg2.jpg",
+        "altText": "Canbo Dog Food Adultos Sb Pollo Razas Medianas Y Grandes Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Dog Food Adultos Sb Pollo Razas Medianas Y Grandes Alimento Seco Perro",
+      "description": "Alimento seco sabor pollo y arroz para perros adultos de razas medianas y grandes de 1 a 7 a\u00f1os de edad.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "232.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "53.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP001185_m",
+    "type": "dogs",
+    "handle": "true-origins-pure-dog-adult-salmon-grain-free",
+    "availableForSale": true,
+    "title": "True Origins Pure Dog Adult Salmon Grain free",
+    "description": "Alimento seco natural de salm\u00f3n sin cereales que mejora la condici\u00f3n del pelaje y la piel en perros de edad adulta de todas las razas",
+    "descriptionHtml": "Alimento seco natural de salm\u00f3n sin cereales que mejora la condici\u00f3n del pelaje y la piel en perros de edad adulta de todas las razas",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "12 Kg",
+          "3 Kg",
+          "500 g"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe05e1032/images/true-origins-pure-dog-adult-salmon-gf-500-gr.jpg",
+      "altText": "True Origins Pure Dog Adult Salmon Grain free, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "12 Kg",
+        "title": "12 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "12 Kg"
+          }
+        ],
+        "price": {
+          "amount": "19.92",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "19.92",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "500 g",
+        "title": "500 g",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "500 g"
+          }
+        ],
+        "price": {
+          "amount": "19.92",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe05e1032/images/true-origins-pure-dog-adult-salmon-gf-500-gr.jpg",
+        "altText": "True Origins Pure Dog Adult Salmon Grain free, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "True Origins Pure Dog Adult Salmon Grain free",
+      "description": "Alimento seco natural de salm\u00f3n sin cereales que mejora la condici\u00f3n del pelaje y la piel en perros de edad adulta de todas las razas"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "222.32",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "19.92",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000269_m",
+    "type": "dogs",
+    "handle": "mio-cane-super-premium-piel-sensible-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Mio Cane Super Premium Piel Sensible Alimento Seco Perro",
+    "description": "Alimento seco para medicado para perros con piel sensible",
+    "descriptionHtml": "Alimento seco para medicado para perros con piel sensible",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "4 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwb16b341b/images/-mio-cane-piel-sensible.jpg",
+      "altText": "Mio Cane Super Premium Piel Sensible Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "86.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "4 Kg",
+        "title": "4 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "4 Kg"
+          }
+        ],
+        "price": {
+          "amount": "86.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwb16b341b/images/-mio-cane-piel-sensible.jpg",
+        "altText": "Mio Cane Super Premium Piel Sensible Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw91fd527e/images/racion-sp-adps.jpg",
+        "altText": "Mio Cane Super Premium Piel Sensible Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Mio Cane Super Premium Piel Sensible Alimento Seco Perro",
+      "description": "Alimento seco para medicado para perros con piel sensible"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "240.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "86.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP001073_m",
+    "type": "dogs",
+    "handle": "wellness-core-perro-lamb-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Wellness Core Perro Lamb Alimento Seco Perro",
+    "description": "Alimento seco sabor a cordero\nfavorece la salud digestiva para perros adultos de todas las razas.",
+    "descriptionHtml": "Alimento seco sabor a cordero\nfavorece la salud digestiva para perros adultos de todas las razas.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "10 Kg",
+          "1.80 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw8120bc65/images/wellness-core-perro-lamb-18kg.jpg",
+      "altText": "Wellness Core Perro Lamb Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "10 Kg",
+        "title": "10 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "10 Kg"
+          }
+        ],
+        "price": {
+          "amount": "79.12",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1.80 Kg",
+        "title": "1.80 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1.80 Kg"
+          }
+        ],
+        "price": {
+          "amount": "79.12",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw8120bc65/images/wellness-core-perro-lamb-18kg.jpg",
+        "altText": "Wellness Core Perro Lamb Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Wellness Core Perro Lamb Alimento Seco Perro",
+      "description": "Alimento seco sabor a cordero\nfavorece la salud digestiva para perros adultos de todas las razas."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "251.93",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "79.12",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000272_m",
+    "type": "dogs",
+    "handle": "mio-cane-super-premium-senior-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Mio Cane Super Premium Senior Alimento Seco Perro",
+    "description": "Alimento seco para perros mayores de 7 a\u00f1os",
+    "descriptionHtml": "Alimento seco para perros mayores de 7 a\u00f1os",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "4 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw79b09667/images/-mio-cane-senior.jpg",
+      "altText": "Mio Cane Super Premium Senior Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "76.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "4 Kg",
+        "title": "4 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "4 Kg"
+          }
+        ],
+        "price": {
+          "amount": "76.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw79b09667/images/-mio-cane-senior.jpg",
+        "altText": "Mio Cane Super Premium Senior Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw00204332/images/racion-sp-se.jpg",
+        "altText": "Mio Cane Super Premium Senior Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Mio Cane Super Premium Senior Alimento Seco Perro",
+      "description": "Alimento seco para perros mayores de 7 a\u00f1os"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "220.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "76.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000312_m",
+    "type": "dogs",
+    "handle": "proplan-puppy-complete-cachorro-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Proplan Puppy Complete Cachorro Alimento Seco Perro\u00a0",
+    "description": "PRO PLAN Puppy Razas Medianas ofrece una \u00f3ptima nutrici\u00f3n para cachorros en crecimiento.",
+    "descriptionHtml": "PRO PLAN Puppy Razas Medianas ofrece una \u00f3ptima nutrici\u00f3n para cachorros en crecimiento.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw14333f85/images/-proplan-cachorro-complete-3kg.jpg",
+      "altText": "Proplan Puppy Complete Cachorro Alimento Seco Perro\u00a0, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "115.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "115.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw14333f85/images/-proplan-cachorro-complete-3kg.jpg",
+        "altText": "Proplan Puppy Complete Cachorro Alimento Seco Perro\u00a0, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Proplan Puppy Complete Cachorro Alimento Seco Perro\u00a0",
+      "description": "PRO PLAN Puppy Razas Medianas ofrece una \u00f3ptima nutrici\u00f3n para cachorros en crecimiento."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "424.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "115.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000322_m",
+    "type": "dogs",
+    "handle": "proplan-exigent-dog-small-breed-raza-pequena-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Proplan Exigent Dog Small Breed Raza Peque\u00f1a Alimento Seco Perro",
+    "description": "Alimento balanceado para perros de razas peque\u00f1as muy selectivos a la hora de comer.",
+    "descriptionHtml": "Alimento balanceado para perros de razas peque\u00f1as muy selectivos a la hora de comer.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "7.5 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw81658e90/images/AP000322_m.jpg",
+      "altText": "Proplan Exigent Dog Small Breed Raza Peque\u00f1a Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "7.5 Kg",
+        "title": "7.5 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "7.5 Kg"
+          }
+        ],
+        "price": {
+          "amount": "115.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "115.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw81658e90/images/AP000322_m.jpg",
+        "altText": "Proplan Exigent Dog Small Breed Raza Peque\u00f1a Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Proplan Exigent Dog Small Breed Raza Peque\u00f1a Alimento Seco Perro",
+      "description": "Alimento balanceado para perros de razas peque\u00f1as muy selectivos a la hora de comer."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "214.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "115.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000180",
+    "type": "dogs",
+    "handle": "hills-pd-ld-cuidado-de-higado-798kg",
+    "availableForSale": true,
+    "title": "Hills PD l/d Cuidado de H\u00edgado 7.98kg",
+    "description": "Hill's PD l/d es un alimento seco espec\u00edficamente formulado para perros con problemas hep\u00e1ticos. Esta f\u00f3rmula nutricionalmente equilibrada ayuda a cuidar la salud del h\u00edgado de tu mascota, proporcionando los nutrientes necesarios para mantener la funci\u00f3n hep\u00e1tica y mejorar la calidad de vida. \u00a1Brinda a tu perro el cuidado hep\u00e1tico que necesita con este alimento de calidad!",
+    "descriptionHtml": "Hill's PD l/d es un alimento seco espec\u00edficamente formulado para perros con problemas hep\u00e1ticos. Esta f\u00f3rmula nutricionalmente equilibrada ayuda a cuidar la salud del h\u00edgado de tu mascota, proporcionando los nutrientes necesarios para mantener la funci\u00f3n hep\u00e1tica y mejorar la calidad de vida. \u00a1Brinda a tu perro el cuidado hep\u00e1tico que necesita con este alimento de calidad!",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw1539b63d/images/-hills-pd-canine-l-d-dry-176-lb.jpg",
+      "altText": "Hills PD l/d Cuidado de H\u00edgado 7.98kg, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw1539b63d/images/-hills-pd-canine-l-d-dry-176-lb.jpg",
+        "altText": "Hills PD l/d Cuidado de H\u00edgado 7.98kg, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Hills PD l/d Cuidado de H\u00edgado 7.98kg",
+      "description": "Hill's PD l/d es un alimento seco espec\u00edficamente formulado para perros con problemas hep\u00e1ticos. Esta f\u00f3rmula nutricionalmente equilibrada ayuda a cuidar la salud del h\u00edgado de tu mascota, proporcionando los nutrientes necesarios para mantener la funci\u00f3n hep\u00e1tica y mejorar la calidad de vida. \u00a1Brinda a tu perro el cuidado hep\u00e1tico que necesita con este alimento de calidad!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "457.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "457.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000388_m",
+    "type": "dogs",
+    "handle": "ricocan-cordero-y-cereales-adultos-razas-medianas-y-grandes-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Ricocan Cordero Y Cereales Adultos Razas Medianas Y Grandes Alimento Seco Perro",
+    "description": "Alimento para perros adultos de razas medianas y grandes",
+    "descriptionHtml": "Alimento para perros adultos de razas medianas y grandes",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "15 Kg",
+          "8 Kg",
+          "3 Kg",
+          "1 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw6d7f67cb/images/ricocan-cordero-y-cereales-adultos-razas-medianas-y-grandes-x-01-kg.jpg",
+      "altText": "Ricocan Cordero Y Cereales Adultos Razas Medianas Y Grandes Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "15 Kg",
+        "title": "15 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "15 Kg"
+          }
+        ],
+        "price": {
+          "amount": "13.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "8 Kg",
+        "title": "8 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "8 Kg"
+          }
+        ],
+        "price": {
+          "amount": "13.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "13.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1 Kg",
+        "title": "1 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1 Kg"
+          }
+        ],
+        "price": {
+          "amount": "13.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw6d7f67cb/images/ricocan-cordero-y-cereales-adultos-razas-medianas-y-grandes-x-01-kg.jpg",
+        "altText": "Ricocan Cordero Y Cereales Adultos Razas Medianas Y Grandes Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Ricocan Cordero Y Cereales Adultos Razas Medianas Y Grandes Alimento Seco Perro",
+      "description": "Alimento para perros adultos de razas medianas y grandes"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "107.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "13.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000578",
+    "type": "dogs",
+    "handle": "hills-sd-adultos-mayores-7-bocados-pequenos-68-kg",
+    "availableForSale": true,
+    "title": "Hills Sd Adultos Mayores 7+ Bocados Peque\u00f1os 6.8 Kg",
+    "description": "Hill's SD Adultos Mayores 7+ Bocados Peque\u00f1os, el alimento seco ideal para perros mayores a partir de 7 a\u00f1os. Brinda nutrici\u00f3n adaptada que favorece la vitalidad y salud en la etapa senior. Descubre el cuidado especializado para tu fiel compa\u00f1ero en sus a\u00f1os dorados.",
+    "descriptionHtml": "Hill's SD Adultos Mayores 7+ Bocados Peque\u00f1os, el alimento seco ideal para perros mayores a partir de 7 a\u00f1os. Brinda nutrici\u00f3n adaptada que favorece la vitalidad y salud en la etapa senior. Descubre el cuidado especializado para tu fiel compa\u00f1ero en sus a\u00f1os dorados.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwc2ee8fe7/images/-hills-sd-canine-mature-small-bites-5-lb.jpg",
+      "altText": "Hills Sd Adultos Mayores 7+ Bocados Peque\u00f1os 6.8 Kg, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwc2ee8fe7/images/-hills-sd-canine-mature-small-bites-5-lb.jpg",
+        "altText": "Hills Sd Adultos Mayores 7+ Bocados Peque\u00f1os 6.8 Kg, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw0b26e80b/images/hills-sd-mature-small-bites-15-lb-68kg.jpg",
+        "altText": "Hills Sd Adultos Mayores 7+ Bocados Peque\u00f1os 6.8 Kg, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Hills Sd Adultos Mayores 7+ Bocados Peque\u00f1os 6.8 Kg",
+      "description": "Hill's SD Adultos Mayores 7+ Bocados Peque\u00f1os, el alimento seco ideal para perros mayores a partir de 7 a\u00f1os. Brinda nutrici\u00f3n adaptada que favorece la vitalidad y salud en la etapa senior. Descubre el cuidado especializado para tu fiel compa\u00f1ero en sus a\u00f1os dorados."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "266.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "266.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000789_m",
+    "type": "dogs",
+    "handle": "dogxtreme-cachorro-pollo-alimento-seco-perro",
+    "availableForSale": true,
+    "title": "Dogxtreme Cachorro Pollo Alimento Seco Perro",
+    "description": "Elaborado para Cachorro independientemente de su raza, con pollo como ingrediente principal para garantizar un crecimiento completo y equilibrado.",
+    "descriptionHtml": "Elaborado para Cachorro independientemente de su raza, con pollo como ingrediente principal para garantizar un crecimiento completo y equilibrado.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "12 Kg",
+          "3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwbf43fd5a/images/AP000789_m.jpg",
+      "altText": "Dogxtreme Cachorro Pollo Alimento Seco Perro, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "12 Kg",
+        "title": "12 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "12 Kg"
+          }
+        ],
+        "price": {
+          "amount": "56.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "56.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwbf43fd5a/images/AP000789_m.jpg",
+        "altText": "Dogxtreme Cachorro Pollo Alimento Seco Perro, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Dogxtreme Cachorro Pollo Alimento Seco Perro",
+      "description": "Elaborado para Cachorro independientemente de su raza, con pollo como ingrediente principal para garantizar un crecimiento completo y equilibrado."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "179.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "56.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000013_m",
+    "type": "cats",
+    "handle": "canbo-cuidado-del-tracto-urinario-urinary-health-alimento-medicado-gato",
+    "availableForSale": true,
+    "title": "Canbo Cuidado Del Tracto Urinario / Urinary Health Alimento Medicado Gato",
+    "description": "Dise\u00f1ado exclusivamente para optimizar la salud y nutrici\u00f3n de gatos adultos de todas las razas.",
+    "descriptionHtml": "Dise\u00f1ado exclusivamente para optimizar la salud y nutrici\u00f3n de gatos adultos de todas las razas.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "7 Kg",
+          "3 Kg",
+          "1 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwb06381b4/images/canbo-cuidado-del-tracto-urinario-urinary-health-1kg.jpg",
+      "altText": "Canbo Cuidado Del Tracto Urinario / Urinary Health Alimento Medicado Gato, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "7 Kg",
+        "title": "7 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "7 Kg"
+          }
+        ],
+        "price": {
+          "amount": "35.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "35.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1 Kg",
+        "title": "1 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1 Kg"
+          }
+        ],
+        "price": {
+          "amount": "35.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwb06381b4/images/canbo-cuidado-del-tracto-urinario-urinary-health-1kg.jpg",
+        "altText": "Canbo Cuidado Del Tracto Urinario / Urinary Health Alimento Medicado Gato, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Cuidado Del Tracto Urinario / Urinary Health Alimento Medicado Gato",
+      "description": "Dise\u00f1ado exclusivamente para optimizar la salud y nutrici\u00f3n de gatos adultos de todas las razas."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "157.6",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "35.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "MD005123",
+    "type": "cats",
+    "handle": "catshion-rascador-duo-con-juguete-scratch-play",
+    "availableForSale": true,
+    "title": "Catshion Rascador D\u00fao con Juguete Scratch & Play",
+    "description": "Rascador con pelota e incluye bolsa de catnip para gatos.",
+    "descriptionHtml": "Rascador con pelota e incluye bolsa de catnip para gatos.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwedcdddbf/images/catshion-scratch-play-bf.jpg",
+      "altText": "Catshion Rascador D\u00fao con Juguete Scratch & Play, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwedcdddbf/images/catshion-scratch-play-bf.jpg",
+        "altText": "Catshion Rascador D\u00fao con Juguete Scratch & Play, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Catshion Rascador D\u00fao con Juguete Scratch & Play",
+      "description": "Rascador con pelota e incluye bolsa de catnip para gatos."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "49.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "49.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "HC000017_m",
+    "type": "cats",
+    "handle": "arena-para-gato-klinkat-arena-para-gatos",
+    "availableForSale": true,
+    "title": "Arena Para Gato Klinkat Arena Para Gatos",
+    "description": "Arena aglomerante a base de bentonita de alta calidad sin aditivos ni qu\u00edmicos.",
+    "descriptionHtml": "Arena aglomerante a base de bentonita de alta calidad sin aditivos ni qu\u00edmicos.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "20 Kg",
+          "10 Kg",
+          "5 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw2228dd6c/images/-klinkat-arena-para-gatos.jpg",
+      "altText": "Arena Para Gato Klinkat Arena Para Gatos, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "20 Kg",
+        "title": "20 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "20 Kg"
+          }
+        ],
+        "price": {
+          "amount": "17.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "10 Kg",
+        "title": "10 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "10 Kg"
+          }
+        ],
+        "price": {
+          "amount": "17.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "5 Kg",
+        "title": "5 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "5 Kg"
+          }
+        ],
+        "price": {
+          "amount": "17.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw2228dd6c/images/-klinkat-arena-para-gatos.jpg",
+        "altText": "Arena Para Gato Klinkat Arena Para Gatos, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Arena Para Gato Klinkat Arena Para Gatos",
+      "description": "Arena aglomerante a base de bentonita de alta calidad sin aditivos ni qu\u00edmicos."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "69.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "17.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000012_m",
+    "type": "cats",
+    "handle": "canbo-cuidado-de-esterilizados-sterilized-care-alimento-seco-gato",
+    "availableForSale": true,
+    "title": "Canbo Cuidado De Esterilizados / Sterilized Care Alimento Seco Gato",
+    "description": "Alimento exclusivo elaborado con un balance de nutrientes esenciales para la alimentaci\u00f3n del gato esterilizado",
+    "descriptionHtml": "Alimento exclusivo elaborado con un balance de nutrientes esenciales para la alimentaci\u00f3n del gato esterilizado",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "7 Kg",
+          "3 Kg",
+          "1 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwd77614a9/images/canbo-cuidado-de-esterilizados-sterilized-care-1kg.jpg",
+      "altText": "Canbo Cuidado De Esterilizados / Sterilized Care Alimento Seco Gato, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "7 Kg",
+        "title": "7 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "7 Kg"
+          }
+        ],
+        "price": {
+          "amount": "35.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "35.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1 Kg",
+        "title": "1 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1 Kg"
+          }
+        ],
+        "price": {
+          "amount": "35.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwd77614a9/images/canbo-cuidado-de-esterilizados-sterilized-care-1kg.jpg",
+        "altText": "Canbo Cuidado De Esterilizados / Sterilized Care Alimento Seco Gato, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Cuidado De Esterilizados / Sterilized Care Alimento Seco Gato",
+      "description": "Alimento exclusivo elaborado con un balance de nutrientes esenciales para la alimentaci\u00f3n del gato esterilizado"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "158.3",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "35.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000423",
+    "type": "cats",
+    "handle": "monge-indoor-15-kg",
+    "availableForSale": true,
+    "title": "Monge  Indoor 1.5 kg",
+    "description": "Alimento seco para gatos de interior sabor pollo",
+    "descriptionHtml": "Alimento seco para gatos de interior sabor pollo",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwb836c23e/images/monge-indoor-15-kg.jpg",
+      "altText": "Monge  Indoor 1.5 kg, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwb836c23e/images/monge-indoor-15-kg.jpg",
+        "altText": "Monge  Indoor 1.5 kg, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Monge  Indoor 1.5 kg",
+      "description": "Alimento seco para gatos de interior sabor pollo"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "61.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "61.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "HC000765",
+    "type": "cats",
+    "handle": "tkpet-arena-aglomerante-sin-aroma-10-lt-85-kg",
+    "availableForSale": true,
+    "title": "Tkpet Arena aglomerante sin aroma 10 Lt (8.5 Kg)",
+    "description": "Arena de bentonita sin aroma",
+    "descriptionHtml": "Arena de bentonita sin aroma",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwc72ddc54/images/HC000765.jpg",
+      "altText": "Tkpet Arena aglomerante sin aroma 10 Lt (8.5 Kg), , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwc72ddc54/images/HC000765.jpg",
+        "altText": "Tkpet Arena aglomerante sin aroma 10 Lt (8.5 Kg), , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw8977e839/images/HC000765-2.jpg",
+        "altText": "Tkpet Arena aglomerante sin aroma 10 Lt (8.5 Kg), , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Tkpet Arena aglomerante sin aroma 10 Lt (8.5 Kg)",
+      "description": "Arena de bentonita sin aroma"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "39.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "39.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "HC000674_m",
+    "type": "cats",
+    "handle": "arena-para-gato-origens-super-premium-100-natural-con-eucalipto",
+    "availableForSale": true,
+    "title": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto\u00a0",
+    "description": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto es una arena sanitaria para gatos completamente natural, dise\u00f1ada para mantener el ambiente fresco y limpio en el arenero. Con su aroma a eucalipto, no solo controla los olores desagradables, sino que tambi\u00e9n brinda una experiencia refrescante para tu mascota y tu hogar. \u00a1Compra ahora y proporciona a tu gato un ambiente higi\u00e9nico y agradable con Origens!",
+    "descriptionHtml": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto es una arena sanitaria para gatos completamente natural, dise\u00f1ada para mantener el ambiente fresco y limpio en el arenero. Con su aroma a eucalipto, no solo controla los olores desagradables, sino que tambi\u00e9n brinda una experiencia refrescante para tu mascota y tu hogar. \u00a1Compra ahora y proporciona a tu gato un ambiente higi\u00e9nico y agradable con Origens!",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "20 Kg",
+          "10 Kg",
+          "5 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw17b92257/images/origens-arena-super-premium-100-natural-con-eucalipto-5-kg.jpg",
+      "altText": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto\u00a0, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "20 Kg",
+        "title": "20 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "20 Kg"
+          }
+        ],
+        "price": {
+          "amount": "20.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "10 Kg",
+        "title": "10 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "10 Kg"
+          }
+        ],
+        "price": {
+          "amount": "20.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "5 Kg",
+        "title": "5 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "5 Kg"
+          }
+        ],
+        "price": {
+          "amount": "20.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw17b92257/images/origens-arena-super-premium-100-natural-con-eucalipto-5-kg.jpg",
+        "altText": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto\u00a0, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto\u00a0",
+      "description": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto es una arena sanitaria para gatos completamente natural, dise\u00f1ada para mantener el ambiente fresco y limpio en el arenero. Con su aroma a eucalipto, no solo controla los olores desagradables, sino que tambi\u00e9n brinda una experiencia refrescante para tu mascota y tu hogar. \u00a1Compra ahora y proporciona a tu gato un ambiente higi\u00e9nico y agradable con Origens!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "73.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "20.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "FF000677",
+    "type": "cats",
+    "handle": "rivolta-6-x-075-ml-26kg-a-75kg-1-pipeta",
+    "availableForSale": true,
+    "title": "Rivolta 6% X 0.75 Ml (2.6kg A 7.5kg) 1 Pipeta",
+    "description": "Antiparasitario externo e interno para gatos a partir de 6 semanas de edad de 2.6 kg hasta 7.5 kg de peso.\nTratamiento y control de infestaciones producidas por pulgas, garrapatas, piojos, \u00e1caros y endopar\u00e1sitos en gatos.\u00a0",
+    "descriptionHtml": "Antiparasitario externo e interno para gatos a partir de 6 semanas de edad de 2.6 kg hasta 7.5 kg de peso.\nTratamiento y control de infestaciones producidas por pulgas, garrapatas, piojos, \u00e1caros y endopar\u00e1sitos en gatos.\u00a0",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwbbb2ced8/images/rivolta-6-x-075-ml-1-pipeta.jpg",
+      "altText": "Rivolta 6% X 0.75 Ml (2.6kg A 7.5kg) 1 Pipeta, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwbbb2ced8/images/rivolta-6-x-075-ml-1-pipeta.jpg",
+        "altText": "Rivolta 6% X 0.75 Ml (2.6kg A 7.5kg) 1 Pipeta, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Rivolta 6% X 0.75 Ml (2.6kg A 7.5kg) 1 Pipeta",
+      "description": "Antiparasitario externo e interno para gatos a partir de 6 semanas de edad de 2.6 kg hasta 7.5 kg de peso.\nTratamiento y control de infestaciones producidas por pulgas, garrapatas, piojos, \u00e1caros y endopar\u00e1sitos en gatos.\u00a0"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "45.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "45.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000011_m",
+    "type": "cats",
+    "handle": "canbo-gatitos-desarrollo-inicial-initial-development-alimento-seco-gato",
+    "availableForSale": true,
+    "title": "Canbo Gatitos Desarrollo Inicial / Initial Development Alimento Seco Gato",
+    "description": "Alimento seco para gatos hasta 1 a\u00f1o de vida.",
+    "descriptionHtml": "Alimento seco para gatos hasta 1 a\u00f1o de vida.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "7 Kg",
+          "3 Kg",
+          "1 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw69063945/images/canbo-gatitos-desarrollo-inicial-initial-development-1kg.jpg",
+      "altText": "Canbo Gatitos Desarrollo Inicial / Initial Development Alimento Seco Gato, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "7 Kg",
+        "title": "7 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "7 Kg"
+          }
+        ],
+        "price": {
+          "amount": "35.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "35.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1 Kg",
+        "title": "1 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1 Kg"
+          }
+        ],
+        "price": {
+          "amount": "35.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw69063945/images/canbo-gatitos-desarrollo-inicial-initial-development-1kg.jpg",
+        "altText": "Canbo Gatitos Desarrollo Inicial / Initial Development Alimento Seco Gato, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Canbo Gatitos Desarrollo Inicial / Initial Development Alimento Seco Gato",
+      "description": "Alimento seco para gatos hasta 1 a\u00f1o de vida."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "179.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "35.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PG000039",
+    "type": "cats",
+    "handle": "churu-vet-nourish-atunpollo-venta-por-unidad",
+    "availableForSale": true,
+    "title": "Churu Vet Nourish At\u00fan/Pollo (Venta por Unidad)",
+    "description": "Snack de gato de formula veterinaria 100% natural.\n\tExcelente nutrici\u00f3n y alta palatabilidad que ayuda a recuperar el apetito.\n\tVenta por unidad: incluye 1 sachet.",
+    "descriptionHtml": "Snack de gato de formula veterinaria 100% natural.\n\tExcelente nutrici\u00f3n y alta palatabilidad que ayuda a recuperar el apetito.\n\tVenta por unidad: incluye 1 sachet.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwf3b30a8f/images/churu-vet-nourish-tuna-chicken.jpg",
+      "altText": "Churu Vet Nourish At\u00fan/Pollo (Venta por Unidad), , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwf3b30a8f/images/churu-vet-nourish-tuna-chicken.jpg",
+        "altText": "Churu Vet Nourish At\u00fan/Pollo (Venta por Unidad), , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Churu Vet Nourish At\u00fan/Pollo (Venta por Unidad)",
+      "description": "Snack de gato de formula veterinaria 100% natural.\n\tExcelente nutrici\u00f3n y alta palatabilidad que ayuda a recuperar el apetito.\n\tVenta por unidad: incluye 1 sachet."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "3.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "3.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "HC000336_m",
+    "type": "cats",
+    "handle": "arena-para-gato-cats-best-original",
+    "availableForSale": true,
+    "title": "Arena Para Gato Cats Best Original",
+    "description": "Arena aglomerante Cat\u2019s Best Original",
+    "descriptionHtml": "Arena aglomerante Cat\u2019s Best Original",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "8.6 Kg",
+          "4.3 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw1dd7e96a/images/cats-best-oko-plus.jpg",
+      "altText": "Arena Para Gato Cats Best Original, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "8.6 Kg",
+        "title": "8.6 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "8.6 Kg"
+          }
+        ],
+        "price": {
+          "amount": "70.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "4.3 Kg",
+        "title": "4.3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "4.3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "70.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw1dd7e96a/images/cats-best-oko-plus.jpg",
+        "altText": "Arena Para Gato Cats Best Original, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Arena Para Gato Cats Best Original",
+      "description": "Arena aglomerante Cat\u2019s Best Original"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "132.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "70.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000228",
+    "type": "cats",
+    "handle": "felix-original-pate-de-pescado-y-atun-156-g",
+    "availableForSale": true,
+    "title": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156 g",
+    "description": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156g es un delicioso alimento h\u00famedo para gatos con aut\u00e9ntico sabor a pescado y at\u00fan. Con una textura suave y sabrosa, este pat\u00e9 satisfar\u00e1 el paladar de tu felino. \u00a1Compra ahora y deleita a tu gato con esta irresistible comida de Felix!",
+    "descriptionHtml": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156g es un delicioso alimento h\u00famedo para gatos con aut\u00e9ntico sabor a pescado y at\u00fan. Con una textura suave y sabrosa, este pat\u00e9 satisfar\u00e1 el paladar de tu felino. \u00a1Compra ahora y deleita a tu gato con esta irresistible comida de Felix!",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw08a4bb35/images/-felix-original-pate-pesc-atun.jpg",
+      "altText": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156 g, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw08a4bb35/images/-felix-original-pate-pesc-atun.jpg",
+        "altText": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156 g, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156 g",
+      "description": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156g es un delicioso alimento h\u00famedo para gatos con aut\u00e9ntico sabor a pescado y at\u00fan. Con una textura suave y sabrosa, este pat\u00e9 satisfar\u00e1 el paladar de tu felino. \u00a1Compra ahora y deleita a tu gato con esta irresistible comida de Felix!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "6.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "6.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000361",
+    "type": "cats",
+    "handle": "cat-it-magic-blue-cartridge-acom-00727",
+    "availableForSale": true,
+    "title": "Cat It Magic Blue Cartridge\u00a0 Acom 00727",
+    "description": "Filtro sanitario para literas de gato.\u00a0\nRetiene hasta 80% de amoniaco.\u00a0",
+    "descriptionHtml": "Filtro sanitario para literas de gato.\u00a0\nRetiene hasta 80% de amoniaco.\u00a0",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwd67bed79/images/cat-it-magic-blue-cartridge-acom-00727.jpg",
+      "altText": "Cat It Magic Blue Cartridge\u00a0 Acom 00727, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwd67bed79/images/cat-it-magic-blue-cartridge-acom-00727.jpg",
+        "altText": "Cat It Magic Blue Cartridge\u00a0 Acom 00727, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Cat It Magic Blue Cartridge\u00a0 Acom 00727",
+      "description": "Filtro sanitario para literas de gato.\u00a0\nRetiene hasta 80% de amoniaco.\u00a0"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "41.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "41.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "MD002957",
+    "type": "cats",
+    "handle": "rascador-olympus-60x37x150-cm-3-pisos",
+    "availableForSale": true,
+    "title": "Rascador Olympus 60x37x150 Cm 3 Pisos",
+    "description": "Rascador interactivo de 4 pisos para uno o m\u00e1s gatos.\u00a0\u00a0",
+    "descriptionHtml": "Rascador interactivo de 4 pisos para uno o m\u00e1s gatos.\u00a0\u00a0",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw44398117/images/mpets-olympus-gimnansio-de-4-pisos.jpg",
+      "altText": "Rascador Olympus 60x37x150 Cm 3 Pisos, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw44398117/images/mpets-olympus-gimnansio-de-4-pisos.jpg",
+        "altText": "Rascador Olympus 60x37x150 Cm 3 Pisos, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Rascador Olympus 60x37x150 Cm 3 Pisos",
+      "description": "Rascador interactivo de 4 pisos para uno o m\u00e1s gatos.\u00a0\u00a0"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "449.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "449.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000152_m",
+    "type": "cats",
+    "handle": "ricocat-adultos-esterilizados-alimento-seco-gato",
+    "availableForSale": true,
+    "title": "Ricocat Adultos Esterilizados Alimento Seco Gato",
+    "description": "Alimento seco para gatos esterilizados sabor pescado",
+    "descriptionHtml": "Alimento seco para gatos esterilizados sabor pescado",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "9 Kg",
+          "1 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwf1263f24/images/rtt-esterilizados7966.jpg",
+      "altText": "Ricocat Adultos Esterilizados Alimento Seco Gato, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "9 Kg",
+        "title": "9 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "9 Kg"
+          }
+        ],
+        "price": {
+          "amount": "14.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1 Kg",
+        "title": "1 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1 Kg"
+          }
+        ],
+        "price": {
+          "amount": "14.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwf1263f24/images/rtt-esterilizados7966.jpg",
+        "altText": "Ricocat Adultos Esterilizados Alimento Seco Gato, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Ricocat Adultos Esterilizados Alimento Seco Gato",
+      "description": "Alimento seco para gatos esterilizados sabor pescado"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "94.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "14.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000341",
+    "type": "cats",
+    "handle": "arenero-suez-cats-birds-69-x-42-x-41-cm",
+    "availableForSale": true,
+    "title": "Arenero Suez Cats & Birds 69 X 42 X 41 Cm",
+    "description": "Ba\u00f1o sanitario desmontable Suez con decoraci\u00f3n de flores y un ave.",
+    "descriptionHtml": "Ba\u00f1o sanitario desmontable Suez con decoraci\u00f3n de flores y un ave.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw76bee26e/images/-gato-mpets-cat-litter-box-suez-cat-y-birds-arenero-20101399.jpg",
+      "altText": "Arenero Suez Cats & Birds 69 X 42 X 41 Cm, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw76bee26e/images/-gato-mpets-cat-litter-box-suez-cat-y-birds-arenero-20101399.jpg",
+        "altText": "Arenero Suez Cats & Birds 69 X 42 X 41 Cm, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Arenero Suez Cats & Birds 69 X 42 X 41 Cm",
+      "description": "Ba\u00f1o sanitario desmontable Suez con decoraci\u00f3n de flores y un ave."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "189.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "189.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000229",
+    "type": "cats",
+    "handle": "felix-original-pate-de-salmon-156-g",
+    "availableForSale": true,
+    "title": "Felix Original Pat\u00e9 de Salm\u00f3n 156 g",
+    "description": "Felix Original Pat\u00e9 de Salm\u00f3n 156g es un alimento h\u00famedo premium en pat\u00e9 para gatos, con aut\u00e9ntico y delicioso sabor a salm\u00f3n. Con una textura suave y sabrosa, este alimento satisfar\u00e1 el paladar exigente de tu felino. \u00a1Compra ahora y deleita a tu gato con esta irresistible comida de Felix!",
+    "descriptionHtml": "Felix Original Pat\u00e9 de Salm\u00f3n 156g es un alimento h\u00famedo premium en pat\u00e9 para gatos, con aut\u00e9ntico y delicioso sabor a salm\u00f3n. Con una textura suave y sabrosa, este alimento satisfar\u00e1 el paladar exigente de tu felino. \u00a1Compra ahora y deleita a tu gato con esta irresistible comida de Felix!",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwde08b0e8/images/-felix-original-pate-salmon.jpg",
+      "altText": "Felix Original Pat\u00e9 de Salm\u00f3n 156 g, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwde08b0e8/images/-felix-original-pate-salmon.jpg",
+        "altText": "Felix Original Pat\u00e9 de Salm\u00f3n 156 g, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Felix Original Pat\u00e9 de Salm\u00f3n 156 g",
+      "description": "Felix Original Pat\u00e9 de Salm\u00f3n 156g es un alimento h\u00famedo premium en pat\u00e9 para gatos, con aut\u00e9ntico y delicioso sabor a salm\u00f3n. Con una textura suave y sabrosa, este alimento satisfar\u00e1 el paladar exigente de tu felino. \u00a1Compra ahora y deleita a tu gato con esta irresistible comida de Felix!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "6.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "6.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000559_m",
+    "type": "cats",
+    "handle": "mio-gatto-adulto-esterilizados-alimento-seco-gato",
+    "availableForSale": true,
+    "title": "Mio Gatto Adulto Esterilizados Alimento Seco Gato",
+    "description": "Alimento seco para gatos esterilizados brinda una alimentaci\u00f3n saludable y baja en calor\u00edas.",
+    "descriptionHtml": "Alimento seco para gatos esterilizados brinda una alimentaci\u00f3n saludable y baja en calor\u00edas.",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "7 Kg",
+          "1.5 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwa1199b12/images/mio-gatto-adulto-esterilizados-15kg.jpg",
+      "altText": "Mio Gatto Adulto Esterilizados Alimento Seco Gato, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "7 Kg",
+        "title": "7 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "7 Kg"
+          }
+        ],
+        "price": {
+          "amount": "45.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1.5 Kg",
+        "title": "1.5 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1.5 Kg"
+          }
+        ],
+        "price": {
+          "amount": "45.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwa1199b12/images/mio-gatto-adulto-esterilizados-15kg.jpg",
+        "altText": "Mio Gatto Adulto Esterilizados Alimento Seco Gato, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw17ec800d/images/racion-miogatto.jpg",
+        "altText": "Mio Gatto Adulto Esterilizados Alimento Seco Gato, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Mio Gatto Adulto Esterilizados Alimento Seco Gato",
+      "description": "Alimento seco para gatos esterilizados brinda una alimentaci\u00f3n saludable y baja en calor\u00edas."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "155.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "45.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000336",
+    "type": "cats",
+    "handle": "recogedor-de-fecas-con-bolsas",
+    "availableForSale": true,
+    "title": "Recogedor De Fecas Con Bolsas",
+    "description": "Recogedor pr\u00e1ctico para evitar agacharse, f\u00e1cil de limpiar, 66 x 15.5 x 13.5 cm.",
+    "descriptionHtml": "Recogedor pr\u00e1ctico para evitar agacharse, f\u00e1cil de limpiar, 66 x 15.5 x 13.5 cm.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwff678eaa/images/-perro-mpets-waste-scoop-kit-66x155x135cm-kit-para-limpieza-10100199.jpg",
+      "altText": "Recogedor De Fecas Con Bolsas, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwff678eaa/images/-perro-mpets-waste-scoop-kit-66x155x135cm-kit-para-limpieza-10100199.jpg",
+        "altText": "Recogedor De Fecas Con Bolsas, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Recogedor De Fecas Con Bolsas",
+      "description": "Recogedor pr\u00e1ctico para evitar agacharse, f\u00e1cil de limpiar, 66 x 15.5 x 13.5 cm."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "26.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "26.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000245",
+    "type": "cats",
+    "handle": "hills-pd-id-digestive-care-55-oz-156gr",
+    "availableForSale": true,
+    "title": "Hills PD i/d Digestive Care 5.5 oz 156gr",
+    "description": "Hill's PD i/d Digestive Care es un alimento indicado para el manejo nutricional de gatos con trastornos gastrointestinales y para aquellos en proceso de recuperaci\u00f3n. Con una f\u00f3rmula cuidadosamente equilibrada, ayuda a promover una digesti\u00f3n saludable y facilita la recuperaci\u00f3n de tu felino. \u00a1Compra ahora para brindarle el cuidado que necesita!",
+    "descriptionHtml": "Hill's PD i/d Digestive Care es un alimento indicado para el manejo nutricional de gatos con trastornos gastrointestinales y para aquellos en proceso de recuperaci\u00f3n. Con una f\u00f3rmula cuidadosamente equilibrada, ayuda a promover una digesti\u00f3n saludable y facilita la recuperaci\u00f3n de tu felino. \u00a1Compra ahora para brindarle el cuidado que necesita!",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwf3386c78/images/AG000245.jpg",
+      "altText": "Hills PD i/d Digestive Care 5.5 oz 156gr, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwf3386c78/images/AG000245.jpg",
+        "altText": "Hills PD i/d Digestive Care 5.5 oz 156gr, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Hills PD i/d Digestive Care 5.5 oz 156gr",
+      "description": "Hill's PD i/d Digestive Care es un alimento indicado para el manejo nutricional de gatos con trastornos gastrointestinales y para aquellos en proceso de recuperaci\u00f3n. Con una f\u00f3rmula cuidadosamente equilibrada, ayuda a promover una digesti\u00f3n saludable y facilita la recuperaci\u00f3n de tu felino. \u00a1Compra ahora para brindarle el cuidado que necesita!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "25.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "25.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000093",
+    "type": "cats",
+    "handle": "hills-pd-cd-multicare-18kg-cuidado-urinario-multicuidado",
+    "availableForSale": true,
+    "title": "Hills PD c/d Multicare 1.8kg Cuidado urinario Multicuidado",
+    "description": "Hill's PD c/d Multicare es un alimento seco para gatos dise\u00f1ado para el cuidado urinario multicuidado. Proporciona un balance correcto de nutrientes vitales para ayudar a mejorar la salud de las v\u00edas urinarias de los gatos.",
+    "descriptionHtml": "Hill's PD c/d Multicare es un alimento seco para gatos dise\u00f1ado para el cuidado urinario multicuidado. Proporciona un balance correcto de nutrientes vitales para ayudar a mejorar la salud de las v\u00edas urinarias de los gatos.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe9b7785f/images/Hills-PD-cd-Multicare-1.8kg-Cuidado-urinario-Multicuidad-AG000093.jpg",
+      "altText": "Hills PD c/d Multicare 1.8kg Cuidado urinario Multicuidado, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe9b7785f/images/Hills-PD-cd-Multicare-1.8kg-Cuidado-urinario-Multicuidad-AG000093.jpg",
+        "altText": "Hills PD c/d Multicare 1.8kg Cuidado urinario Multicuidado, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Hills PD c/d Multicare 1.8kg Cuidado urinario Multicuidado",
+      "description": "Hill's PD c/d Multicare es un alimento seco para gatos dise\u00f1ado para el cuidado urinario multicuidado. Proporciona un balance correcto de nutrientes vitales para ayudar a mejorar la salud de las v\u00edas urinarias de los gatos."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "120",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "120",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000069",
+    "type": "cats",
+    "handle": "hills-pd-cd-multi-stress-cuidado-urinario-multi-estres-181-kg",
+    "availableForSale": true,
+    "title": "Hills PD c/d Multi Stress Cuidado urinario Multi Estr\u00e9s 1.81 Kg",
+    "description": "Hill's PD c/d Multi Stress es un alimento seco especialmente formulado para gatos que necesitan controlar el estr\u00e9s y cuidar su salud urinaria. Esta f\u00f3rmula ayuda a mantener la salud del tracto urinario de tu gato y reduce el riesgo de la formaci\u00f3n de c\u00e1lculos urinarios. Adem\u00e1s, est\u00e1 dise\u00f1ado para ayudar a gestionar el estr\u00e9s en situaciones que pueden afectar negativamente a la salud urinaria de tu mascota, como cambios en el ambiente, mudanzas o visitas al veterinario. Es una opci\u00f3n completa y equilibrada para cuidar la salud integral de tu gato.",
+    "descriptionHtml": "Hill's PD c/d Multi Stress es un alimento seco especialmente formulado para gatos que necesitan controlar el estr\u00e9s y cuidar su salud urinaria. Esta f\u00f3rmula ayuda a mantener la salud del tracto urinario de tu gato y reduce el riesgo de la formaci\u00f3n de c\u00e1lculos urinarios. Adem\u00e1s, est\u00e1 dise\u00f1ado para ayudar a gestionar el estr\u00e9s en situaciones que pueden afectar negativamente a la salud urinaria de tu mascota, como cambios en el ambiente, mudanzas o visitas al veterinario. Es una opci\u00f3n completa y equilibrada para cuidar la salud integral de tu gato.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwf48c32f7/images/hills-pd-c-d-multi-stress-cuidado-urinario-multi-estres.jpg",
+      "altText": "Hills PD c/d Multi Stress Cuidado urinario Multi Estr\u00e9s 1.81 Kg, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwf48c32f7/images/hills-pd-c-d-multi-stress-cuidado-urinario-multi-estres.jpg",
+        "altText": "Hills PD c/d Multi Stress Cuidado urinario Multi Estr\u00e9s 1.81 Kg, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Hills PD c/d Multi Stress Cuidado urinario Multi Estr\u00e9s 1.81 Kg",
+      "description": "Hill's PD c/d Multi Stress es un alimento seco especialmente formulado para gatos que necesitan controlar el estr\u00e9s y cuidar su salud urinaria. Esta f\u00f3rmula ayuda a mantener la salud del tracto urinario de tu gato y reduce el riesgo de la formaci\u00f3n de c\u00e1lculos urinarios. Adem\u00e1s, est\u00e1 dise\u00f1ado para ayudar a gestionar el estr\u00e9s en situaciones que pueden afectar negativamente a la salud urinaria de tu mascota, como cambios en el ambiente, mudanzas o visitas al veterinario. Es una opci\u00f3n completa y equilibrada para cuidar la salud integral de tu gato."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "146.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "146.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "HC000434_m",
+    "type": "cats",
+    "handle": "cats-best-smart-pellets",
+    "availableForSale": true,
+    "title": "Cats Best Smart Pellets",
+    "description": "Arena para gato",
+    "descriptionHtml": "Arena para gato",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "10 Kg",
+          "2.5 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw34916915/images/cats-best-smart-pellets-25-kg-04c093.jpg",
+      "altText": "Cats Best Smart Pellets, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "10 Kg",
+        "title": "10 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "10 Kg"
+          }
+        ],
+        "price": {
+          "amount": "44.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "2.5 Kg",
+        "title": "2.5 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "2.5 Kg"
+          }
+        ],
+        "price": {
+          "amount": "44.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw34916915/images/cats-best-smart-pellets-25-kg-04c093.jpg",
+        "altText": "Cats Best Smart Pellets, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Cats Best Smart Pellets",
+      "description": "Arena para gato"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "162.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "44.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PG000046",
+    "type": "cats",
+    "handle": "churu-fun-bites-atun-y-ostiones",
+    "availableForSale": true,
+    "title": "Churu Fun Bites At\u00fan Y Ostiones",
+    "description": "Churu Fun Bites At\u00fan y Ostiones es un snack saludable para gatos en forma de taquito, con delicioso relleno de crema y aut\u00e9ntico sabor a pollo y ostiones. Enriquecido con taurina y vitamina E para promover la salud y vitalidad de tu felino. Adem\u00e1s, est\u00e1 libre de granos, conservantes y colorantes. \u00a1Compra ahora y consiente a tu gato con este irresistible premio!",
+    "descriptionHtml": "Churu Fun Bites At\u00fan y Ostiones es un snack saludable para gatos en forma de taquito, con delicioso relleno de crema y aut\u00e9ntico sabor a pollo y ostiones. Enriquecido con taurina y vitamina E para promover la salud y vitalidad de tu felino. Adem\u00e1s, est\u00e1 libre de granos, conservantes y colorantes. \u00a1Compra ahora y consiente a tu gato con este irresistible premio!",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw05315bb0/images/churu-fun-bites-tuna-with-scallop-recipe.jpg",
+      "altText": "Churu Fun Bites At\u00fan Y Ostiones, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw05315bb0/images/churu-fun-bites-tuna-with-scallop-recipe.jpg",
+        "altText": "Churu Fun Bites At\u00fan Y Ostiones, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Churu Fun Bites At\u00fan Y Ostiones",
+      "description": "Churu Fun Bites At\u00fan y Ostiones es un snack saludable para gatos en forma de taquito, con delicioso relleno de crema y aut\u00e9ntico sabor a pollo y ostiones. Enriquecido con taurina y vitamina E para promover la salud y vitalidad de tu felino. Adem\u00e1s, est\u00e1 libre de granos, conservantes y colorantes. \u00a1Compra ahora y consiente a tu gato con este irresistible premio!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "17.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "17.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AP000810",
+    "type": "cats",
+    "handle": "hant-gato-res-gato-500-g",
+    "availableForSale": true,
+    "title": "Hant Gato: Res Gato 500 g",
+    "description": "Hant Gato: Res Gato 500g ofrece alb\u00f3ndigas de res 100% naturales, especialmente formuladas para gatos. Este alimento proporciona una opci\u00f3n nutritiva y sabrosa para satisfacer las necesidades alimenticias de tu felino. \u00a1Compra ahora y brinda a tu gato una alimentaci\u00f3n natural y de calidad con Hant!",
+    "descriptionHtml": "Hant Gato: Res Gato 500g ofrece alb\u00f3ndigas de res 100% naturales, especialmente formuladas para gatos. Este alimento proporciona una opci\u00f3n nutritiva y sabrosa para satisfacer las necesidades alimenticias de tu felino. \u00a1Compra ahora y brinda a tu gato una alimentaci\u00f3n natural y de calidad con Hant!",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw268523f8/images/hant-gato-res-gato.jpg",
+      "altText": "Hant Gato: Res Gato 500 g, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw268523f8/images/hant-gato-res-gato.jpg",
+        "altText": "Hant Gato: Res Gato 500 g, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw1e2b58a7/images/hant-gato-res-gato2.jpg",
+        "altText": "Hant Gato: Res Gato 500 g, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw96d20325/images/hant-gato-res-gato3.jpg",
+        "altText": "Hant Gato: Res Gato 500 g, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Hant Gato: Res Gato 500 g",
+      "description": "Hant Gato: Res Gato 500g ofrece alb\u00f3ndigas de res 100% naturales, especialmente formuladas para gatos. Este alimento proporciona una opci\u00f3n nutritiva y sabrosa para satisfacer las necesidades alimenticias de tu felino. \u00a1Compra ahora y brinda a tu gato una alimentaci\u00f3n natural y de calidad con Hant!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "12.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "12.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000561",
+    "type": "cats",
+    "handle": "salvaje-esterilizado-gato-12kg",
+    "availableForSale": true,
+    "title": "Salvaje Esterilizado Gato 12kg",
+    "description": "Alimento seco elaborado para mantener saludable y sano a tu gato adulto esterilizado.",
+    "descriptionHtml": "Alimento seco elaborado para mantener saludable y sano a tu gato adulto esterilizado.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwfa76be3a/images/salvaje-esterilizado-gato-15kg.jpg",
+      "altText": "Salvaje Esterilizado Gato 12kg, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwfa76be3a/images/salvaje-esterilizado-gato-15kg.jpg",
+        "altText": "Salvaje Esterilizado Gato 12kg, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Salvaje Esterilizado Gato 12kg",
+      "description": "Alimento seco elaborado para mantener saludable y sano a tu gato adulto esterilizado."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "163.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "163.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000383",
+    "type": "cats",
+    "handle": "gran-plus-gato-adulto-salmon-y-arroz-10kg",
+    "availableForSale": true,
+    "title": "Gran Plus Gato Adulto Salmon y Arroz 10kg",
+    "description": "Nutrici\u00f3n de alta calidad para tu gato adulto. Con delicioso salm\u00f3n y arroz, esta f\u00f3rmula proporciona los nutrientes esenciales que tu mascota necesita para mantenerse saludable y feliz. \u00a1Descubre el equilibrio perfecto entre sabor y nutrici\u00f3n con Gran Plus!",
+    "descriptionHtml": "Nutrici\u00f3n de alta calidad para tu gato adulto. Con delicioso salm\u00f3n y arroz, esta f\u00f3rmula proporciona los nutrientes esenciales que tu mascota necesita para mantenerse saludable y feliz. \u00a1Descubre el equilibrio perfecto entre sabor y nutrici\u00f3n con Gran Plus!",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw3e1cfd94/images/gran-plus-gato-adulto-salmon-y-arroz-10kg.jpg",
+      "altText": "Gran Plus Gato Adulto Salmon y Arroz 10kg, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw3e1cfd94/images/gran-plus-gato-adulto-salmon-y-arroz-10kg.jpg",
+        "altText": "Gran Plus Gato Adulto Salmon y Arroz 10kg, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Gran Plus Gato Adulto Salmon y Arroz 10kg",
+      "description": "Nutrici\u00f3n de alta calidad para tu gato adulto. Con delicioso salm\u00f3n y arroz, esta f\u00f3rmula proporciona los nutrientes esenciales que tu mascota necesita para mantenerse saludable y feliz. \u00a1Descubre el equilibrio perfecto entre sabor y nutrici\u00f3n con Gran Plus!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "207.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "207.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000124_m",
+    "type": "cats",
+    "handle": "proplan-sterelized-cat-gato-esterilizado-alimento-seco-gato",
+    "availableForSale": true,
+    "title": "Proplan Sterelized Cat Gato Esterilizado Alimento Seco Gato",
+    "description": "Pro Plan Sterilized Cat Alimento Seco para Gato Esterilizado es una opci\u00f3n completa y balanceada dise\u00f1ada espec\u00edficamente para satisfacer las necesidades nutricionales de los gatos adultos castrados o esterilizados. Esta f\u00f3rmula ayuda a controlar el peso y a mantener la salud del tracto urinario, brindando a tu gato una nutrici\u00f3n \u00f3ptima para su estilo de vida. \u00a1Compra ahora y brinda a tu gato esterilizado una alimentaci\u00f3n equilibrada y deliciosa con Pro Plan!",
+    "descriptionHtml": "Pro Plan Sterilized Cat Alimento Seco para Gato Esterilizado es una opci\u00f3n completa y balanceada dise\u00f1ada espec\u00edficamente para satisfacer las necesidades nutricionales de los gatos adultos castrados o esterilizados. Esta f\u00f3rmula ayuda a controlar el peso y a mantener la salud del tracto urinario, brindando a tu gato una nutrici\u00f3n \u00f3ptima para su estilo de vida. \u00a1Compra ahora y brinda a tu gato esterilizado una alimentaci\u00f3n equilibrada y deliciosa con Pro Plan!",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "3 Kg",
+          "1 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw900d4aa2/images/proplan-sterelized-cat.jpg",
+      "altText": "Proplan Sterelized Cat Gato Esterilizado Alimento Seco Gato, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "64.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1 Kg",
+        "title": "1 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1 Kg"
+          }
+        ],
+        "price": {
+          "amount": "64.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw900d4aa2/images/proplan-sterelized-cat.jpg",
+        "altText": "Proplan Sterelized Cat Gato Esterilizado Alimento Seco Gato, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Proplan Sterelized Cat Gato Esterilizado Alimento Seco Gato",
+      "description": "Pro Plan Sterilized Cat Alimento Seco para Gato Esterilizado es una opci\u00f3n completa y balanceada dise\u00f1ada espec\u00edficamente para satisfacer las necesidades nutricionales de los gatos adultos castrados o esterilizados. Esta f\u00f3rmula ayuda a controlar el peso y a mantener la salud del tracto urinario, brindando a tu gato una nutrici\u00f3n \u00f3ptima para su estilo de vida. \u00a1Compra ahora y brinda a tu gato esterilizado una alimentaci\u00f3n equilibrada y deliciosa con Pro Plan!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "172.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "64.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "AG000120_m",
+    "type": "cats",
+    "handle": "proplan-kitten-gatitos-alimento-seco-gato",
+    "availableForSale": true,
+    "title": "Proplan Kitten Gatitos Alimento Seco Gato",
+    "description": "Pro Plan Kitten Alimento Seco para Gatitos es una opci\u00f3n balanceada dise\u00f1ada espec\u00edficamente para satisfacer las necesidades nutricionales de los gatitos en crecimiento, hasta los 12 meses de edad. Este alimento seco proporciona los nutrientes esenciales que los gatitos necesitan para un desarrollo saludable, y su delicioso sabor los har\u00e1 disfrutar cada bocado. \u00a1Compra ahora y brinda a tu gatito la mejor nutrici\u00f3n con Pro Plan!",
+    "descriptionHtml": "Pro Plan Kitten Alimento Seco para Gatitos es una opci\u00f3n balanceada dise\u00f1ada espec\u00edficamente para satisfacer las necesidades nutricionales de los gatitos en crecimiento, hasta los 12 meses de edad. Este alimento seco proporciona los nutrientes esenciales que los gatitos necesitan para un desarrollo saludable, y su delicioso sabor los har\u00e1 disfrutar cada bocado. \u00a1Compra ahora y brinda a tu gatito la mejor nutrici\u00f3n con Pro Plan!",
+    "options": [
+      {
+        "id": "ML_Peso",
+        "name": "Peso",
+        "values": [
+          "3 Kg",
+          "1 Kg"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwfb6e6fa9/images/-proplan-gatitosy-15-kg.jpg",
+      "altText": "Proplan Kitten Gatitos Alimento Seco Gato, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "3 Kg",
+        "title": "3 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "3 Kg"
+          }
+        ],
+        "price": {
+          "amount": "56.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "1 Kg",
+        "title": "1 Kg",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Peso",
+            "value": "1 Kg"
+          }
+        ],
+        "price": {
+          "amount": "56.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwfb6e6fa9/images/-proplan-gatitosy-15-kg.jpg",
+        "altText": "Proplan Kitten Gatitos Alimento Seco Gato, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Proplan Kitten Gatitos Alimento Seco Gato",
+      "description": "Pro Plan Kitten Alimento Seco para Gatitos es una opci\u00f3n balanceada dise\u00f1ada espec\u00edficamente para satisfacer las necesidades nutricionales de los gatitos en crecimiento, hasta los 12 meses de edad. Este alimento seco proporciona los nutrientes esenciales que los gatitos necesitan para un desarrollo saludable, y su delicioso sabor los har\u00e1 disfrutar cada bocado. \u00a1Compra ahora y brinda a tu gatito la mejor nutrici\u00f3n con Pro Plan!"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "147.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "56.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000720_m",
+    "type": "cats",
+    "handle": "lmb-faja-post-operatorio-hembra-palorosa",
+    "availableForSale": true,
+    "title": "Lmb Faja Post Operatorio Hembra Palorosa",
+    "description": "Faja Post operatorio, Protecci\u00f3n y comodidad para tu mascota. Prenda de algod\u00f3n anat\u00f3micamente ajustable, brind\u00e1ndole flexibilidad en el proceso de recuperaci\u00f3n de su mascota. Tela 95% de algod\u00f3n 5% licra.",
+    "descriptionHtml": "Faja Post operatorio, Protecci\u00f3n y comodidad para tu mascota. Prenda de algod\u00f3n anat\u00f3micamente ajustable, brind\u00e1ndole flexibilidad en el proceso de recuperaci\u00f3n de su mascota. Tela 95% de algod\u00f3n 5% licra.",
+    "options": [
+      {
+        "id": "ML_Formato",
+        "name": "Formato",
+        "values": [
+          "Talla 8",
+          "Talla 7",
+          "Talla 6",
+          "Talla 5",
+          "Talla 4",
+          "Talla 3"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw7da5c6d3/images/Lmb Faja Hembra Palorosa 1.jpg",
+      "altText": "Lmb Faja Post Operatorio Hembra Palorosa, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "Talla 8",
+        "title": "Talla 8",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla 8"
+          }
+        ],
+        "price": {
+          "amount": "59.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "Talla 7",
+        "title": "Talla 7",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla 7"
+          }
+        ],
+        "price": {
+          "amount": "59.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "Talla 6",
+        "title": "Talla 6",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla 6"
+          }
+        ],
+        "price": {
+          "amount": "59.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "Talla 5",
+        "title": "Talla 5",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla 5"
+          }
+        ],
+        "price": {
+          "amount": "59.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "Talla 4",
+        "title": "Talla 4",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla 4"
+          }
+        ],
+        "price": {
+          "amount": "59.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "Talla 3",
+        "title": "Talla 3",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla 3"
+          }
+        ],
+        "price": {
+          "amount": "59.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw7da5c6d3/images/Lmb Faja Hembra Palorosa 1.jpg",
+        "altText": "Lmb Faja Post Operatorio Hembra Palorosa, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw878e592f/images/Lmb Faja Hembra Palorosa 2.jpg",
+        "altText": "Lmb Faja Post Operatorio Hembra Palorosa, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw3cf6aad7/images/Lmb Faja Hembra Palorosa 3.jpg",
+        "altText": "Lmb Faja Post Operatorio Hembra Palorosa, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dweaec8756/images/Lmb Faja Post Tabla 1.jpg",
+        "altText": "Lmb Faja Post Operatorio Hembra Palorosa, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Lmb Faja Post Operatorio Hembra Palorosa",
+      "description": "Faja Post operatorio, Protecci\u00f3n y comodidad para tu mascota. Prenda de algod\u00f3n anat\u00f3micamente ajustable, brind\u00e1ndole flexibilidad en el proceso de recuperaci\u00f3n de su mascota. Tela 95% de algod\u00f3n 5% licra."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "79.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "59.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "MD007435_m",
+    "type": "others",
+    "handle": "mpets-training-wheel-rueda-para-roedores",
+    "availableForSale": true,
+    "title": "Mpets Training Wheel Rueda Para Roedores",
+    "description": "Rueda giratoria para hamsters y ratones enanos.",
+    "descriptionHtml": "Rueda giratoria para hamsters y ratones enanos.",
+    "options": [
+      {
+        "id": "ML_Formato",
+        "name": "Formato",
+        "values": [
+          "Talla M",
+          "Talla S"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw3e1fbe57/images/Mpets Training Wheel 1.jpg",
+      "altText": "Mpets Training Wheel Rueda Para Roedores, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "Talla M",
+        "title": "Talla M",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla M"
+          }
+        ],
+        "price": {
+          "amount": "19.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "Talla S",
+        "title": "Talla S",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla S"
+          }
+        ],
+        "price": {
+          "amount": "19.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw3e1fbe57/images/Mpets Training Wheel 1.jpg",
+        "altText": "Mpets Training Wheel Rueda Para Roedores, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw3ca0b3cd/images/Mpets Training Wheel 2.jpg",
+        "altText": "Mpets Training Wheel Rueda Para Roedores, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Mpets Training Wheel Rueda Para Roedores",
+      "description": "Rueda giratoria para hamsters y ratones enanos."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "29.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "19.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "MD007437_m",
+    "type": "others",
+    "handle": "mpets-hamster-ball-pelota-para-roedores",
+    "availableForSale": true,
+    "title": "Mpets Hamster Ball Pelota Para Roedores",
+    "description": "Juguete en forma de esfera para h\u00e1mster.",
+    "descriptionHtml": "Juguete en forma de esfera para h\u00e1mster.",
+    "options": [
+      {
+        "id": "ML_Formato",
+        "name": "Formato",
+        "values": [
+          "Talla L",
+          "Talla S"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw8ab283ed/images/Mpets Hamster Ball 1.jpg",
+      "altText": "Mpets Hamster Ball Pelota Para Roedores, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "Talla L",
+        "title": "Talla L",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla L"
+          }
+        ],
+        "price": {
+          "amount": "19.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "Talla S",
+        "title": "Talla S",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "Talla S"
+          }
+        ],
+        "price": {
+          "amount": "19.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw8ab283ed/images/Mpets Hamster Ball 1.jpg",
+        "altText": "Mpets Hamster Ball Pelota Para Roedores, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw6d4add57/images/Mpets Hamster Ball 2.jpg",
+        "altText": "Mpets Hamster Ball Pelota Para Roedores, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Mpets Hamster Ball Pelota Para Roedores",
+      "description": "Juguete en forma de esfera para h\u00e1mster."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "29.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "19.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000680_m",
+    "type": "others",
+    "handle": "mpets-flaska-bebedero-para-pequenos-animales",
+    "availableForSale": true,
+    "title": "Mpets Flaska Bebedero Para Peque\u00f1os Animales",
+    "description": "Bebedero para animales peque\u00f1os. Contiene 1 unidad. Colores surtidos incluye verde, azul, naranja o rojo (Recibir\u00e1s un color y/o dise\u00f1o al azar seg\u00fan stock).",
+    "descriptionHtml": "Bebedero para animales peque\u00f1os. Contiene 1 unidad. Colores surtidos incluye verde, azul, naranja o rojo (Recibir\u00e1s un color y/o dise\u00f1o al azar seg\u00fan stock).",
+    "options": [
+      {
+        "id": "ML_Formato",
+        "name": "Formato",
+        "values": [
+          "450 ML",
+          "250 ML",
+          "100 ML"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw83c5c44c/images/Mpets Flaska PS000680 1.jpg",
+      "altText": "Mpets Flaska Bebedero Para Peque\u00f1os Animales, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "450 ML",
+        "title": "450 ML",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "450 ML"
+          }
+        ],
+        "price": {
+          "amount": "7.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "250 ML",
+        "title": "250 ML",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "250 ML"
+          }
+        ],
+        "price": {
+          "amount": "7.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "100 ML",
+        "title": "100 ML",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Formato",
+            "value": "100 ML"
+          }
+        ],
+        "price": {
+          "amount": "7.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw83c5c44c/images/Mpets Flaska PS000680 1.jpg",
+        "altText": "Mpets Flaska Bebedero Para Peque\u00f1os Animales, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw43eafb34/images/Mpets Flaska PS000680 2.jpg",
+        "altText": "Mpets Flaska Bebedero Para Peque\u00f1os Animales, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw2ee76d7f/images/Mpets Flaska PS000680 4.jpg",
+        "altText": "Mpets Flaska Bebedero Para Peque\u00f1os Animales, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwf55bcdd6/images/Mpets Flaska PS000680 5.jpg",
+        "altText": "Mpets Flaska Bebedero Para Peque\u00f1os Animales, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dweaafc00b/images/Mpets Flaska PS000680 3.jpg",
+        "altText": "Mpets Flaska Bebedero Para Peque\u00f1os Animales, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Mpets Flaska Bebedero Para Peque\u00f1os Animales",
+      "description": "Bebedero para animales peque\u00f1os. Contiene 1 unidad. Colores surtidos incluye verde, azul, naranja o rojo (Recibir\u00e1s un color y/o dise\u00f1o al azar seg\u00fan stock)."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "12.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "7.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000683",
+    "type": "others",
+    "handle": "mpets-chester-casa-para-hamster",
+    "availableForSale": true,
+    "title": "Mpets Chester Casa Para Hamster",
+    "description": "Casa transportadora para hamsters.",
+    "descriptionHtml": "Casa transportadora para hamsters.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw0c7c5c0e/images/Mpets Chester 1.jpg",
+      "altText": "Mpets Chester Casa Para Hamster, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw0c7c5c0e/images/Mpets Chester 1.jpg",
+        "altText": "Mpets Chester Casa Para Hamster, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwcd6ba618/images/Mpets Chester 2.jpg",
+        "altText": "Mpets Chester Casa Para Hamster, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Mpets Chester Casa Para Hamster",
+      "description": "Casa transportadora para hamsters."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "269.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "269.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000818",
+    "type": "others",
+    "handle": "habitat-pequenas-mascotas-l-281-x-181-x-18-cm",
+    "availableForSale": true,
+    "title": "Habitat Peque\u00f1as Mascotas L 28,1 X 18,1 X 18 Cm",
+    "description": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla L: 28,1 x 18,1 x 18 cm\n\tPeso m\u00e1ximo \n5.2 kg",
+    "descriptionHtml": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla L: 28,1 x 18,1 x 18 cm\n\tPeso m\u00e1ximo \n5.2 kg",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw7283a385/images/PS000818.jpg",
+      "altText": "Habitat Peque\u00f1as Mascotas L 28,1 X 18,1 X 18 Cm, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw7283a385/images/PS000818.jpg",
+        "altText": "Habitat Peque\u00f1as Mascotas L 28,1 X 18,1 X 18 Cm, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Habitat Peque\u00f1as Mascotas L 28,1 X 18,1 X 18 Cm",
+      "description": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla L: 28,1 x 18,1 x 18 cm\n\tPeso m\u00e1ximo \n5.2 kg"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "34.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "34.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000817",
+    "type": "others",
+    "handle": "habitat-pequenas-mascotas-m-225-x-15-x-15-cm",
+    "availableForSale": true,
+    "title": "Habitat Peque\u00f1as Mascotas M 22,5 X 15 X 15 Cm",
+    "description": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla M: 22,5 x 15 x 15 cm\n\tPeso m\u00e1ximo \n2.7 kg",
+    "descriptionHtml": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla M: 22,5 x 15 x 15 cm\n\tPeso m\u00e1ximo \n2.7 kg",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw49d567d5/images/PS000817.jpg",
+      "altText": "Habitat Peque\u00f1as Mascotas M 22,5 X 15 X 15 Cm, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw49d567d5/images/PS000817.jpg",
+        "altText": "Habitat Peque\u00f1as Mascotas M 22,5 X 15 X 15 Cm, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Habitat Peque\u00f1as Mascotas M 22,5 X 15 X 15 Cm",
+      "description": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla M: 22,5 x 15 x 15 cm\n\tPeso m\u00e1ximo \n2.7 kg"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "24.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "24.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000816",
+    "type": "others",
+    "handle": "habitat-pequenas-mascotas-s-18-x-119-x-129-cm",
+    "availableForSale": true,
+    "title": "Habitat Peque\u00f1as Mascotas S 18 X 11,9 X 12,9 Cm",
+    "description": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla S: 18 x 11,9 x 12,9 cm\n\tPeso m\u00e1ximo \n1.4 kg",
+    "descriptionHtml": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla S: 18 x 11,9 x 12,9 cm\n\tPeso m\u00e1ximo \n1.4 kg",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwab3a4786/images/PS000816.jpg",
+      "altText": "Habitat Peque\u00f1as Mascotas S 18 X 11,9 X 12,9 Cm, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwab3a4786/images/PS000816.jpg",
+        "altText": "Habitat Peque\u00f1as Mascotas S 18 X 11,9 X 12,9 Cm, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Habitat Peque\u00f1as Mascotas S 18 X 11,9 X 12,9 Cm",
+      "description": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla S: 18 x 11,9 x 12,9 cm\n\tPeso m\u00e1ximo \n1.4 kg"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "14.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "14.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000813",
+    "type": "others",
+    "handle": "bebedero-de-vidrio-pequenas-mascotas-177-ml",
+    "availableForSale": true,
+    "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 177 Ml",
+    "description": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 177 ml",
+    "descriptionHtml": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 177 ml",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw2646b271/images/PS000813.jpg",
+      "altText": "Bebedero De Vidrio Peque\u00f1as Mascotas 177 Ml, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw2646b271/images/PS000813.jpg",
+        "altText": "Bebedero De Vidrio Peque\u00f1as Mascotas 177 Ml, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 177 Ml",
+      "description": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 177 ml"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "19.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "19.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000814",
+    "type": "others",
+    "handle": "bebedero-de-vidrio-pequenas-mascotas-350-ml",
+    "availableForSale": true,
+    "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 350 Ml",
+    "description": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 350 ml",
+    "descriptionHtml": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 350 ml",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwed9ba01e/images/PS000814.jpg",
+      "altText": "Bebedero De Vidrio Peque\u00f1as Mascotas 350 Ml, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwed9ba01e/images/PS000814.jpg",
+        "altText": "Bebedero De Vidrio Peque\u00f1as Mascotas 350 Ml, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 350 Ml",
+      "description": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 350 ml"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "24.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "24.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000815",
+    "type": "others",
+    "handle": "bebedero-de-vidrio-pequenas-mascotas-750-ml",
+    "availableForSale": true,
+    "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 750 Ml",
+    "description": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 750 ml",
+    "descriptionHtml": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 750 ml",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwae32d1f0/images/PS000815.jpg",
+      "altText": "Bebedero De Vidrio Peque\u00f1as Mascotas 750 Ml, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwae32d1f0/images/PS000815.jpg",
+        "altText": "Bebedero De Vidrio Peque\u00f1as Mascotas 750 Ml, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 750 Ml",
+      "description": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 750 ml"
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "29.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "29.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000684",
+    "type": "others",
+    "handle": "mpets-derby-casa-para-hamster",
+    "availableForSale": true,
+    "title": "Mpets Derby Casa Para Hamster",
+    "description": "Caja transportadora para hamsters, ideal para paseos.",
+    "descriptionHtml": "Caja transportadora para hamsters, ideal para paseos.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe0c9fb8d/images/Mpets Derby 1.jpg",
+      "altText": "Mpets Derby Casa Para Hamster, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwe0c9fb8d/images/Mpets Derby 1.jpg",
+        "altText": "Mpets Derby Casa Para Hamster, , large",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw8e7ee3b5/images/Mpets Derby 2.jpg",
+        "altText": "Mpets Derby Casa Para Hamster, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Mpets Derby Casa Para Hamster",
+      "description": "Caja transportadora para hamsters, ideal para paseos."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "199.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "199.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "MD005226",
+    "type": "others",
+    "handle": "small-life-bola-ejercicio-125",
+    "availableForSale": true,
+    "title": "Small Life Bola Ejercicio 12.5",
+    "description": "Bola de ejercicio y de diversi\u00f3n para roedores.",
+    "descriptionHtml": "Bola de ejercicio y de diversi\u00f3n para roedores.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw29ab54a8/images/small-life-bola-ejercicio-125.jpg",
+      "altText": "Small Life Bola Ejercicio 12.5, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw29ab54a8/images/small-life-bola-ejercicio-125.jpg",
+        "altText": "Small Life Bola Ejercicio 12.5, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Small Life Bola Ejercicio 12.5",
+      "description": "Bola de ejercicio y de diversi\u00f3n para roedores."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "12.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "12.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000553_m",
+    "type": "others",
+    "handle": "small-life-carrier",
+    "availableForSale": true,
+    "title": "Small Life Carrier\u00a0",
+    "description": "Transportador muy ligero para roedores peque\u00f1os.",
+    "descriptionHtml": "Transportador muy ligero para roedores peque\u00f1os.",
+    "options": [
+      {
+        "id": "Variation-ML_Talla",
+        "name": "Talla",
+        "values": [
+          "Talla L",
+          "Talla S"
+        ]
+      }
+    ],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwcacf2298/images/PS000553_m.jpg",
+      "altText": "Small Life Carrier\u00a0, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [
+      {
+        "id": "Talla L",
+        "title": "Talla L",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Talla",
+            "value": "Talla L"
+          }
+        ],
+        "price": {
+          "amount": "29.9",
+          "currencyCode": "PEN"
+        }
+      },
+      {
+        "id": "Talla S",
+        "title": "Talla S",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Talla",
+            "value": "Talla S"
+          }
+        ],
+        "price": {
+          "amount": "29.9",
+          "currencyCode": "PEN"
+        }
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwcacf2298/images/PS000553_m.jpg",
+        "altText": "Small Life Carrier\u00a0, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Small Life Carrier\u00a0",
+      "description": "Transportador muy ligero para roedores peque\u00f1os."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "39.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "29.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "MD005224",
+    "type": "others",
+    "handle": "small-life-comedero-roedor-cup-300ml",
+    "availableForSale": true,
+    "title": "Small Life Comedero Roedor Cup 300Ml",
+    "description": "Comedero para roedores de color verde con una capacidad de 300 ml.",
+    "descriptionHtml": "Comedero para roedores de color verde con una capacidad de 300 ml.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwc00af45b/images/small-life-comedero-roedor-cup-300ml.jpg",
+      "altText": "Small Life Comedero Roedor Cup 300Ml, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwc00af45b/images/small-life-comedero-roedor-cup-300ml.jpg",
+        "altText": "Small Life Comedero Roedor Cup 300Ml, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Small Life Comedero Roedor Cup 300Ml",
+      "description": "Comedero para roedores de color verde con una capacidad de 300 ml."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "14.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "14.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "MD005225",
+    "type": "others",
+    "handle": "small-life-comedero-roedor-cup-600ml",
+    "availableForSale": true,
+    "title": "Small Life Comedero Roedor Cup 600Ml",
+    "description": "Comedero para roedores de color verde con una capacidad de 300 ml.",
+    "descriptionHtml": "Comedero para roedores de color verde con una capacidad de 300 ml.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw36ae7ac1/images/small-life-comedero-roedor-cup-600ml.jpg",
+      "altText": "Small Life Comedero Roedor Cup 600Ml, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw36ae7ac1/images/small-life-comedero-roedor-cup-600ml.jpg",
+        "altText": "Small Life Comedero Roedor Cup 600Ml, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Small Life Comedero Roedor Cup 600Ml",
+      "description": "Comedero para roedores de color verde con una capacidad de 300 ml."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "19.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "19.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "MD005228",
+    "type": "others",
+    "handle": "small-life-esquin-m-415x29x20",
+    "availableForSale": true,
+    "title": "Small Life Esquin M 41.5X29X20",
+    "description": "Bandeja higi\u00e9nica con un dise\u00f1o esquinero para una limpieza f\u00e1cil, para peque\u00f1os roedores.",
+    "descriptionHtml": "Bandeja higi\u00e9nica con un dise\u00f1o esquinero para una limpieza f\u00e1cil, para peque\u00f1os roedores.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwede1e91c/images/small-life-esquin-m-415x29x20.jpg",
+      "altText": "Small Life Esquin M 41.5X29X20, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwede1e91c/images/small-life-esquin-m-415x29x20.jpg",
+        "altText": "Small Life Esquin M 41.5X29X20, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Small Life Esquin M 41.5X29X20",
+      "description": "Bandeja higi\u00e9nica con un dise\u00f1o esquinero para una limpieza f\u00e1cil, para peque\u00f1os roedores."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "39.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "39.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "MD005227",
+    "type": "others",
+    "handle": "small-life-esquin-s-32x22x145",
+    "availableForSale": true,
+    "title": "Small Life Esquin S 32X22X14.5",
+    "description": "Bandeja higi\u00e9nica con un dise\u00f1o esquinero para una limpieza f\u00e1cil, para peque\u00f1os roedores.",
+    "descriptionHtml": "Bandeja higi\u00e9nica con un dise\u00f1o esquinero para una limpieza f\u00e1cil, para peque\u00f1os roedores.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw13fd2c67/images/small-life-esquin-s-32x22x145.jpg",
+      "altText": "Small Life Esquin S 32X22X14.5, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dw13fd2c67/images/small-life-esquin-s-32x22x145.jpg",
+        "altText": "Small Life Esquin S 32X22X14.5, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Small Life Esquin S 32X22X14.5",
+      "description": "Bandeja higi\u00e9nica con un dise\u00f1o esquinero para una limpieza f\u00e1cil, para peque\u00f1os roedores."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "29.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "29.9",
+        "currencyCode": "PEN"
+      }
+    }
+  },
+  {
+    "id": "PS000552",
+    "type": "others",
+    "handle": "small-life-hay-feeder",
+    "availableForSale": true,
+    "title": "Small Life Hay Feeder",
+    "description": "Henera para roedores con enganches para poder colocarlo en la jaula.",
+    "descriptionHtml": "Henera para roedores con enganches para poder colocarlo en la jaula.",
+    "options": [],
+    "featuredImage": {
+      "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwb13bd218/images/small-life-hay-feeder.jpg",
+      "altText": "Small Life Hay Feeder, , large",
+      "width": 0,
+      "height": 0
+    },
+    "variants": [],
+    "images": [
+      {
+        "url": "https://www.superpet.pe/on/demandware.static/-/Sites-SuperPet-master-catalog/default/dwb13bd218/images/small-life-hay-feeder.jpg",
+        "altText": "Small Life Hay Feeder, , large",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "seo": {
+      "title": "Small Life Hay Feeder",
+      "description": "Henera para roedores con enganches para poder colocarlo en la jaula."
+    },
+    "tags": [],
+    "updatedAt": "2024-08.03",
+    "priceRange": {
+      "maxVariantPrice": {
+        "amount": "24.9",
+        "currencyCode": "PEN"
+      },
+      "minVariantPrice": {
+        "amount": "24.9",
+        "currencyCode": "PEN"
+      }
+    }
+  }
+]
