@@ -1,5 +1,6 @@
 import { Cart, Collection, Menu, Page, Product } from 'lib/types';
 import products from '../../app/products.json';
+import { COLLECTIONS } from 'lib/constants'
 
 export const CART: Cart = {
   id: 'cartid',
@@ -42,7 +43,7 @@ export async function getCart(cartId: string | undefined): Promise<Cart | undefi
 }
 
 export async function getCollection(handle: string): Promise<Collection | undefined> {
-  return undefined;
+  return COLLECTIONS.find((val) => val.handle === handle);
 }
 
 export async function getCollectionProducts({
@@ -60,12 +61,13 @@ export async function getCollectionProducts({
     return selected
   } else if (collection === 'hidden-homepage-featured-items') {
     return products.slice(0, 3);
+  } else {
+    return products.filter((val) => val.tags.includes(collection))
   }
-  return products
 }
 
-export async function getCollections(): Promise<any[]> {
-  return [];
+export async function getCollections(): Promise<Collection[]> {
+  return COLLECTIONS
 }
 
 export async function getMenu(handle: 'frontend-header' | 'frontend-footer'): Promise<Menu[]> {
@@ -139,15 +141,32 @@ export async function getPages(): Promise<Page[]> {
 }
 
 export async function getProduct(handle: string): Promise<Product | undefined> {
-  return PRODUCTS.find((product) => product.handle === handle) || PRODUCTS[0];
+  return products.find((product) => product.handle === handle);
 }
 
 export async function getProductRecommendations(productId: string): Promise<Product[]> {
-  const recomendations = [...PRODUCTS].reverse();
-  return recomendations;
+  // Step 1: Find the product by its ID
+  const currentProduct = products.find((p: Product) => p.id === productId);
+  if (!currentProduct) {
+    throw new Error(`Product with ID ${productId} not found`);
+  }
+
+  // Step 2: Get the tags of the found product
+  const productTags = currentProduct.tags;
+
+  // Step 3: Filter products that share at least one tag
+  const recommendedProducts = products.filter((p: Product) => {
+    // Exclude the original product from the recommendations
+    if (p.id === productId) return false;
+
+    // Check for shared tags
+    return p.tags.some(tag => productTags.includes(tag));
+  });
+
+  return recommendedProducts.slice(0,5)
 }
 
-const PRODUCTS: Product[] = [
+/* const PRODUCTS: Product[] = [
   {
     id: '1',
     handle: 'proplan-adult-complete-razas-medianas-alimento-seco-perro',
@@ -357,7 +376,7 @@ const PRODUCTS: Product[] = [
     tags: ['tag1', 'tag2'],
     updatedAt: ''
   }
-];
+]; */
 
 export async function getProducts({
   query,
@@ -368,5 +387,5 @@ export async function getProducts({
   reverse?: boolean;
   sortKey?: string;
 }): Promise<Product[]> {
-  return PRODUCTS;
+  return products.filter((val) => val.title.toLowerCase().includes(query as string));
 }
