@@ -113,6 +113,7 @@ export type SEO = {
 
 
 export type Collection = {
+  path: string;
   handle: string;
   title: string;
   description: string;
