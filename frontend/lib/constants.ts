@@ -1,3 +1,5 @@
+import { Collection } from 'lib/types';
+
 export type SortFilterItem = {
   title: string;
   slug: string | null;
@@ -25,6 +27,42 @@ export const TAGS = {
   products: 'products',
   cart: 'cart'
 };
+
+export const COLLECTIONS: Collection[] = [
+  {
+    path: 'dogs',
+    handle: 'dogs',
+    title: 'Perros',
+    description: 'Productos para perros',
+    seo: {
+      title: 'Perros',
+      description: 'Productos para perros'
+    },
+    updatedAt: ''
+  },
+  {
+    path: 'cats',
+    handle: 'cats',
+    title: 'Gatos',
+    description: 'Productos para gatos',
+    seo: {
+      title: 'Gatos',
+      description: 'Productos para gatos'
+    },
+    updatedAt: ''
+  },
+  {
+    path: 'others',
+    handle: 'others',
+    title: 'Otras Mascotas',
+    description: 'Productos para otras mascotas',
+    seo: {
+      title: 'Otras Mascotas',
+      description: 'Productos para otras mascotas'
+    },
+    updatedAt: ''
+  }
+];
 
 export const HIDDEN_PRODUCT_TAG = 'nextjs-frontend-hidden';
 export const DEFAULT_OPTION = 'Default Title';
