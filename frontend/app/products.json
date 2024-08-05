@@ -1,7 +1,6 @@
 [
   {
     "id": "AP000034_m",
-    "type": "dogs",
     "handle": "canbo-adulto-cordero-razas-medgran-alimento-seco-perro",
     "availableForSale": true,
     "title": "Canbo Adulto Cordero Razas Med/Gran Alimento Seco Perro",
@@ -73,7 +72,11 @@
       "title": "Canbo Adulto Cordero Razas Med/Gran Alimento Seco Perro",
       "description": "Alimento seco sabor a cordero, la mejor elecci\u00f3n para tu consentido engre\u00eddo. Con cordero, 26% de prote\u00edna, vitaminas y minerales, estas croquetas ideales para razas medianas y grandes le brindan a tu consentido inmunidad, dientes brillantes y desarrollo muscular. Combaten enfermedades cardiovasculares con antioxidantes naturales, omega 3 y 6, y la fibra prebi\u00f3tica y Yucca Schidigera reducen olores. \u00a1Mima a tu compa\u00f1ero con Canbo para una vida adulta plena!"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Canbo"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -88,7 +91,6 @@
   },
   {
     "id": "AP000791_m",
-    "type": "dogs",
     "handle": "dogxtreme-adulto-cordero-alimento-seco-perro",
     "availableForSale": true,
     "title": "Dogxtreme Adulto Cordero Alimento Seco Perro",
@@ -154,7 +156,11 @@
       "title": "Dogxtreme Adulto Cordero Alimento Seco Perro",
       "description": "Para perros adultos de todas las razas, elaborado con cordero como ingrediente principal, que facilita la digesti\u00f3n para una mejor absorci\u00f3n de nutrientes, y promueve un pelo y pelaje m\u00e1s brillante y sano."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Dogxtreme"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -169,7 +175,6 @@
   },
   {
     "id": "AP000035_m",
-    "type": "dogs",
     "handle": "canbo-adulto-cordero-razas-pequenas",
     "availableForSale": true,
     "title": "Canbo Adulto Cordero razas peque\u00f1as",
@@ -235,7 +240,11 @@
       "title": "Canbo Adulto Cordero razas peque\u00f1as",
       "description": "Alimento seco para perros de razas peque\u00f1as sabor cordero, croquetas premium con 28% de prote\u00edna y 17% de grasas. Dise\u00f1adas para promover una aprehensi\u00f3n y degluci\u00f3n \u00f3ptimas, con concentraci\u00f3n energ\u00e9tica adecuada. Vitaminas, minerales org\u00e1nicos, antioxidantes, omega 3 y 6, fibra prebi\u00f3tica y Yucca Schidigera para razas activas. 100% completo y balanceado, \u00a1nutre a tus engre\u00eddos con lo mejor de Canbo!"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Canbo"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -250,7 +259,6 @@
   },
   {
     "id": "AP000793_m",
-    "type": "dogs",
     "handle": "dogxtreme-adulto-salmon-alimento-seco-perro",
     "availableForSale": true,
     "title": "Dogxtreme Adulto Salm\u00f3n Alimento Seco Perro",
@@ -316,7 +324,11 @@
       "title": "Dogxtreme Adulto Salm\u00f3n Alimento Seco Perro",
       "description": "Para una mejora visible del pelaje del perro, ha sido elaborado con salm\u00f3n como ingrediente principal, que adem\u00e1s mejora la vitalidad de tu mascota."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Dogxtreme"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -331,7 +343,6 @@
   },
   {
     "id": "AP000039_m",
-    "type": "dogs",
     "handle": "canbo-cachorro-cordero-razas-pequenas-alimento-seco-perro",
     "availableForSale": true,
     "title": "Canbo Cachorro Cordero Razas Peque\u00f1as Alimento Seco Perro",
@@ -403,7 +414,11 @@
       "title": "Canbo Cachorro Cordero Razas Peque\u00f1as Alimento Seco Perro",
       "description": "Alimento seco para Cachorros (0 a 12 meses) de razas peque\u00f1as. Las necesidades nutricionales de estos, son elevadas debido a su mayor demanda energ\u00e9tica por unidad de peso y est\u00f3magos m\u00e1s peque\u00f1os. Las f\u00f3rmulas para razas peque\u00f1as ofrecen densidad energ\u00e9tica y nutricional superior, con ingredientes de alta digestibilidad. Las croquetas dise\u00f1adas para bocas peque\u00f1as facilitan la masticaci\u00f3n y degluci\u00f3n. \u00a1Opta por el alimento ideal para el bienestar de tu cachorro peque\u00f1o!"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Canbo"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -418,7 +433,6 @@
   },
   {
     "id": "AP000037_m",
-    "type": "dogs",
     "handle": "canbo-cachorro-cordero-razas-medgran",
     "availableForSale": true,
     "title": "Canbo Cachorro Cordero razas med/gran",
@@ -490,7 +504,11 @@
       "title": "Canbo Cachorro Cordero razas med/gran",
       "description": "Alimento seco para perros de razas medianas y grandes, un alimento premium vital para el crecimiento. Completo y balanceado, cubre las necesidades nutricionales de cachorros (0-12 meses). Con prebi\u00f3ticos, DHA, EPA, y m\u00e1s para una f\u00f3rmula \u00f3ptima. Beneficios como vitaminas para inmunidad, prote\u00ednas para desarrollo muscular, glucosamina para articulaciones y omega 3 y 6 para desarrollo cognitivo. Adem\u00e1s, fibra prebi\u00f3tica y Yucca Schidigera para alta digestibilidad y reducci\u00f3n de olores. \u00a1Canbo cuida cada detalle para un inicio de vida saludable y feliz!"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Canbo"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -505,7 +523,6 @@
   },
   {
     "id": "AP000270",
-    "type": "dogs",
     "handle": "mio-cane-premium-adulto-15-kg",
     "availableForSale": true,
     "title": "Mio Cane Premium Adulto 15 kg",
@@ -531,7 +548,11 @@
       "title": "Mio Cane Premium Adulto 15 kg",
       "description": "Alimento premium para perro.\n Espec\u00edficamente dise\u00f1adas para mascotas en edad adulta."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Mio Cane"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -546,7 +567,6 @@
   },
   {
     "id": "AP001364_m",
-    "type": "dogs",
     "handle": "pro-plan-piel-sensible-adulto-cordero-todas-las-razas",
     "availableForSale": true,
     "title": "Pro plan Piel Sensible Adulto Cordero Todas las Razas",
@@ -628,7 +648,11 @@
       "title": "Pro plan Piel Sensible Adulto Cordero Todas las Razas",
       "description": "Alimento para perros con piel sensible"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Pro Plan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -643,7 +667,6 @@
   },
   {
     "id": "AP001143_m",
-    "type": "dogs",
     "handle": "canbo-dog-food-senior-sb-pollo-todas-las-razas-alimento-seco-perro",
     "availableForSale": true,
     "title": "Canbo Dog Food Senior Sb Pollo Todas Las Razas Alimento Seco Perro",
@@ -715,7 +738,11 @@
       "title": "Canbo Dog Food Senior Sb Pollo Todas Las Razas Alimento Seco Perro",
       "description": "Alimento seco sabor pollo y arroz para perros senior de todas las razas de 7 a\u00f1os a m\u00e1s.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Canbo Balance"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -730,7 +757,6 @@
   },
   {
     "id": "AP000792_m",
-    "type": "dogs",
     "handle": "dogxtreme-adulto-seniorlight-alimento-seco-perro",
     "availableForSale": true,
     "title": "Dogxtreme Adulto Senior/Light Alimento Seco Perro",
@@ -796,7 +822,11 @@
       "title": "Dogxtreme Adulto Senior/Light Alimento Seco Perro",
       "description": "Elaborado para perros senior, debido a su actividad m\u00e1s reducida, su alimentaci\u00f3n tiene que aportarles los nutrientes necesario para mantenerse sanos, por ello este alimento se ha desarrollado para fomentar un mantenimiento sano de tu mascota."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Dogxtreme"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -811,7 +841,6 @@
   },
   {
     "id": "AP001070",
-    "type": "dogs",
     "handle": "hills-science-diet-adult-small-bites-cordero-y-arroz-703-kg",
     "availableForSale": true,
     "title": "Hill's Science Diet Adult Small Bites, cordero y arroz 7.03 kg",
@@ -837,7 +866,11 @@
       "title": "Hill's Science Diet Adult Small Bites, cordero y arroz 7.03 kg",
       "description": "Hill's Science Diet Adult Small Bites, cordero y arroz, es un alimento balanceado espec\u00edficamente formulado para perros de 1 a 6 a\u00f1os de edad. Con un delicioso sabor a cordero y arroz, brinda una nutrici\u00f3n de calidad que satisface las necesidades espec\u00edficas de tu mascota. Descubre la elecci\u00f3n perfecta para perros adultos en cada bocado."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Hills"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -852,7 +885,6 @@
   },
   {
     "id": "AP001174_m",
-    "type": "dogs",
     "handle": "canbo-dog-skin-protection-con-salmon-trz-ad-alimento-seco-perro",
     "availableForSale": true,
     "title": "Canbo Dog Skin Protection Con Salmon T.Rz Ad Alimento Seco Perro",
@@ -924,7 +956,11 @@
       "title": "Canbo Dog Skin Protection Con Salmon T.Rz Ad Alimento Seco Perro",
       "description": "Alimento seco a base de salm\u00f3n como fuente de prote\u00edna altamente digerible para perros de todas las razas de 1 a 7 a\u00f1os de edad.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Canbo Balance"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -939,7 +975,6 @@
   },
   {
     "id": "AP000301_m",
-    "type": "dogs",
     "handle": "proplan-adult-complete-razas-medianas-alimento-seco-perro",
     "availableForSale": true,
     "title": "Proplan Adult Complete Razas Medianas Alimento Seco Perro\u00a0",
@@ -1005,7 +1040,11 @@
       "title": "Proplan Adult Complete Razas Medianas Alimento Seco Perro\u00a0",
       "description": "Alimento Super Premium para perros adultos desde los 12 meses hasta los 7 a\u00f1os.\n Con carne fresca de pollo como ingrediente principal y desarrollado con la energ\u00eda que los perros de raza peque\u00f1a necesitan para mantenerse sanos y activos. Junto con una combinaci\u00f3n equilibrada de vitaminas y minerales para una piel y pelaje saludable."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Pro Plan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1020,7 +1059,6 @@
   },
   {
     "id": "AP000310_m",
-    "type": "dogs",
     "handle": "proplan-adult-sensitive-adulto-sensible-alimento-seco-perro",
     "availableForSale": true,
     "title": "Proplan Adult Sensitive Adulto Sensible Alimento Seco Perro",
@@ -1086,7 +1124,11 @@
       "title": "Proplan Adult Sensitive Adulto Sensible Alimento Seco Perro",
       "description": "Alimento seco para perros con piel sensible"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Pro Plan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1101,7 +1143,6 @@
   },
   {
     "id": "AP000209",
-    "type": "dogs",
     "handle": "hills-sd-adult-lamb-rice-33-lb-cordero-y-arroz-1496-kg-7kg-gratis-alimento-seco-perro",
     "availableForSale": true,
     "title": "Hills Sd Adult Lamb & Rice 33 Lb Cordero Y Arroz (14.96 Kg) + 7Kg Gratis Alimento Seco Perro",
@@ -1127,7 +1168,11 @@
       "title": "Hills Sd Adult Lamb & Rice 33 Lb Cordero Y Arroz (14.96 Kg) + 7Kg Gratis Alimento Seco Perro",
       "description": "Hill's SD Adult Lamb & Rice es un alimento seco para perros super premium de Hill's Science Diet. Formulado con cordero y arroz, este producto est\u00e1 dise\u00f1ado espec\u00edficamente para perros adultos de 1 a 6 a\u00f1os de edad. Proporciona una nutrici\u00f3n completa y equilibrada para mantener la salud y el bienestar de tu mascota. Aprovecha esta oferta especial y br\u00edndale a tu perro la calidad que se merece."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Hills"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1142,7 +1187,6 @@
   },
   {
     "id": "AP001178_m",
-    "type": "dogs",
     "handle": "true-origins-pure-dog-adult-chicken",
     "availableForSale": true,
     "title": "True Origins Pure Dog Adult Chicken",
@@ -1224,7 +1268,11 @@
       "title": "True Origins Pure Dog Adult Chicken",
       "description": "Alimento seco para perros adultos con alto contenido en pollo rico en prote\u00ednas y vitaminas."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "True Origins Pure"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1239,7 +1287,6 @@
   },
   {
     "id": "AP000790_m",
-    "type": "dogs",
     "handle": "dogxtreme-adulto-pollo-alimento-seco-perro",
     "availableForSale": true,
     "title": "Dogxtreme Adulto Pollo Alimento Seco Perro",
@@ -1305,7 +1352,11 @@
       "title": "Dogxtreme Adulto Pollo Alimento Seco Perro",
       "description": "Elaborado para perros adultos de cualquier raza, con pollo como ingrediente principal para aportarle los nutrientes que necesita para tener energ\u00eda durante todo el d\u00eda, adem\u00e1s de mantener una musculatura fuerte."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Dogxtreme"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1320,7 +1371,6 @@
   },
   {
     "id": "AP001072_m",
-    "type": "dogs",
     "handle": "wellness-core-perro-healthy-weight-alimento-seco-perro",
     "availableForSale": true,
     "title": "Wellness Core Perro Healthy Weight Alimento Seco Perro",
@@ -1386,7 +1436,11 @@
       "title": "Wellness Core Perro Healthy Weight Alimento Seco Perro",
       "description": "Alimento seco\nsabor a pavo\nbajo en calor\u00edas para perros adultos de tama\u00f1o grande y mediano."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Wellness Core"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1401,7 +1455,6 @@
   },
   {
     "id": "AP000014_m",
-    "type": "dogs",
     "handle": "proplan-adult-7-adulto-mayores-de-7-anos-alimento-seco-perro",
     "availableForSale": true,
     "title": "Proplan Adult 7+ Adulto Mayores De 7 A\u00f1os Alimento Seco Perro\u00a0",
@@ -1467,7 +1520,11 @@
       "title": "Proplan Adult 7+ Adulto Mayores De 7 A\u00f1os Alimento Seco Perro\u00a0",
       "description": "Alimento balanceado para perros mayores de 7 a\u00f1os de razas medianas y grandes."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Pro Plan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1482,7 +1539,6 @@
   },
   {
     "id": "AP000178_m",
-    "type": "dogs",
     "handle": "hills-pd-kd-dry-cuidado-renal-alimento-medicado-perro",
     "availableForSale": true,
     "title": "Hills Pd K/D Dry Cuidado Renal Alimento Medicado Perro",
@@ -1564,7 +1620,11 @@
       "title": "Hills Pd K/D Dry Cuidado Renal Alimento Medicado Perro",
       "description": "Hill's PD K/D Dry es un alimento seco medicado especialmente formulado para perros con problemas renales. Esta f\u00f3rmula nutricionalmente equilibrada ayuda a apoyar la salud renal de tu mascota, proporcionando los nutrientes necesarios para mantener la funci\u00f3n renal y mejorar la calidad de vida. \u00a1Brinda a tu perro el cuidado renal que necesita con este alimento de calidad!"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Hills"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1579,7 +1639,6 @@
   },
   {
     "id": "AP001141_m",
-    "type": "dogs",
     "handle": "canbo-dog-food-adultos-sb-pollo-razas-medianas-y-grandes-alimento-seco-perro",
     "availableForSale": true,
     "title": "Canbo Dog Food Adultos Sb Pollo Razas Medianas Y Grandes Alimento Seco Perro",
@@ -1651,7 +1710,11 @@
       "title": "Canbo Dog Food Adultos Sb Pollo Razas Medianas Y Grandes Alimento Seco Perro",
       "description": "Alimento seco sabor pollo y arroz para perros adultos de razas medianas y grandes de 1 a 7 a\u00f1os de edad.\n F\u00f3rmula especializada con prebi\u00f3ticos funcionales."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Canbo Balance"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1666,7 +1729,6 @@
   },
   {
     "id": "AP001185_m",
-    "type": "dogs",
     "handle": "true-origins-pure-dog-adult-salmon-grain-free",
     "availableForSale": true,
     "title": "True Origins Pure Dog Adult Salmon Grain free",
@@ -1748,7 +1810,11 @@
       "title": "True Origins Pure Dog Adult Salmon Grain free",
       "description": "Alimento seco natural de salm\u00f3n sin cereales que mejora la condici\u00f3n del pelaje y la piel en perros de edad adulta de todas las razas"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "True Origins Pure"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1763,7 +1829,6 @@
   },
   {
     "id": "AP000269_m",
-    "type": "dogs",
     "handle": "mio-cane-super-premium-piel-sensible-alimento-seco-perro",
     "availableForSale": true,
     "title": "Mio Cane Super Premium Piel Sensible Alimento Seco Perro",
@@ -1835,7 +1900,11 @@
       "title": "Mio Cane Super Premium Piel Sensible Alimento Seco Perro",
       "description": "Alimento seco para medicado para perros con piel sensible"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Mio Cane"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1850,7 +1919,6 @@
   },
   {
     "id": "AP001073_m",
-    "type": "dogs",
     "handle": "wellness-core-perro-lamb-alimento-seco-perro",
     "availableForSale": true,
     "title": "Wellness Core Perro Lamb Alimento Seco Perro",
@@ -1916,7 +1984,11 @@
       "title": "Wellness Core Perro Lamb Alimento Seco Perro",
       "description": "Alimento seco sabor a cordero\nfavorece la salud digestiva para perros adultos de todas las razas."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Wellness Core"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -1931,7 +2003,6 @@
   },
   {
     "id": "AP000272_m",
-    "type": "dogs",
     "handle": "mio-cane-super-premium-senior-alimento-seco-perro",
     "availableForSale": true,
     "title": "Mio Cane Super Premium Senior Alimento Seco Perro",
@@ -2003,7 +2074,11 @@
       "title": "Mio Cane Super Premium Senior Alimento Seco Perro",
       "description": "Alimento seco para perros mayores de 7 a\u00f1os"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Mio Cane"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2018,7 +2093,6 @@
   },
   {
     "id": "AP000312_m",
-    "type": "dogs",
     "handle": "proplan-puppy-complete-cachorro-alimento-seco-perro",
     "availableForSale": true,
     "title": "Proplan Puppy Complete Cachorro Alimento Seco Perro\u00a0",
@@ -2084,7 +2158,11 @@
       "title": "Proplan Puppy Complete Cachorro Alimento Seco Perro\u00a0",
       "description": "PRO PLAN Puppy Razas Medianas ofrece una \u00f3ptima nutrici\u00f3n para cachorros en crecimiento."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Pro Plan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2099,7 +2177,6 @@
   },
   {
     "id": "AP000322_m",
-    "type": "dogs",
     "handle": "proplan-exigent-dog-small-breed-raza-pequena-alimento-seco-perro",
     "availableForSale": true,
     "title": "Proplan Exigent Dog Small Breed Raza Peque\u00f1a Alimento Seco Perro",
@@ -2165,7 +2242,11 @@
       "title": "Proplan Exigent Dog Small Breed Raza Peque\u00f1a Alimento Seco Perro",
       "description": "Alimento balanceado para perros de razas peque\u00f1as muy selectivos a la hora de comer."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Pro Plan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2180,7 +2261,6 @@
   },
   {
     "id": "AP000180",
-    "type": "dogs",
     "handle": "hills-pd-ld-cuidado-de-higado-798kg",
     "availableForSale": true,
     "title": "Hills PD l/d Cuidado de H\u00edgado 7.98kg",
@@ -2206,7 +2286,11 @@
       "title": "Hills PD l/d Cuidado de H\u00edgado 7.98kg",
       "description": "Hill's PD l/d es un alimento seco espec\u00edficamente formulado para perros con problemas hep\u00e1ticos. Esta f\u00f3rmula nutricionalmente equilibrada ayuda a cuidar la salud del h\u00edgado de tu mascota, proporcionando los nutrientes necesarios para mantener la funci\u00f3n hep\u00e1tica y mejorar la calidad de vida. \u00a1Brinda a tu perro el cuidado hep\u00e1tico que necesita con este alimento de calidad!"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Hills"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2221,7 +2305,6 @@
   },
   {
     "id": "AP000388_m",
-    "type": "dogs",
     "handle": "ricocan-cordero-y-cereales-adultos-razas-medianas-y-grandes-alimento-seco-perro",
     "availableForSale": true,
     "title": "Ricocan Cordero Y Cereales Adultos Razas Medianas Y Grandes Alimento Seco Perro",
@@ -2319,7 +2402,11 @@
       "title": "Ricocan Cordero Y Cereales Adultos Razas Medianas Y Grandes Alimento Seco Perro",
       "description": "Alimento para perros adultos de razas medianas y grandes"
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Ricocan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2334,7 +2421,6 @@
   },
   {
     "id": "AP000578",
-    "type": "dogs",
     "handle": "hills-sd-adultos-mayores-7-bocados-pequenos-68-kg",
     "availableForSale": true,
     "title": "Hills Sd Adultos Mayores 7+ Bocados Peque\u00f1os 6.8 Kg",
@@ -2366,7 +2452,11 @@
       "title": "Hills Sd Adultos Mayores 7+ Bocados Peque\u00f1os 6.8 Kg",
       "description": "Hill's SD Adultos Mayores 7+ Bocados Peque\u00f1os, el alimento seco ideal para perros mayores a partir de 7 a\u00f1os. Brinda nutrici\u00f3n adaptada que favorece la vitalidad y salud en la etapa senior. Descubre el cuidado especializado para tu fiel compa\u00f1ero en sus a\u00f1os dorados."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Hills"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2381,7 +2471,6 @@
   },
   {
     "id": "AP000789_m",
-    "type": "dogs",
     "handle": "dogxtreme-cachorro-pollo-alimento-seco-perro",
     "availableForSale": true,
     "title": "Dogxtreme Cachorro Pollo Alimento Seco Perro",
@@ -2447,7 +2536,11 @@
       "title": "Dogxtreme Cachorro Pollo Alimento Seco Perro",
       "description": "Elaborado para Cachorro independientemente de su raza, con pollo como ingrediente principal para garantizar un crecimiento completo y equilibrado."
     },
-    "tags": [],
+    "tags": [
+      "dogs",
+      "alimentos-seco-perro",
+      "Dogxtreme"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2462,7 +2555,6 @@
   },
   {
     "id": "AG000013_m",
-    "type": "cats",
     "handle": "canbo-cuidado-del-tracto-urinario-urinary-health-alimento-medicado-gato",
     "availableForSale": true,
     "title": "Canbo Cuidado Del Tracto Urinario / Urinary Health Alimento Medicado Gato",
@@ -2544,7 +2636,11 @@
       "title": "Canbo Cuidado Del Tracto Urinario / Urinary Health Alimento Medicado Gato",
       "description": "Dise\u00f1ado exclusivamente para optimizar la salud y nutrici\u00f3n de gatos adultos de todas las razas."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Canbo"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2559,7 +2655,6 @@
   },
   {
     "id": "MD005123",
-    "type": "cats",
     "handle": "catshion-rascador-duo-con-juguete-scratch-play",
     "availableForSale": true,
     "title": "Catshion Rascador D\u00fao con Juguete Scratch & Play",
@@ -2585,7 +2680,11 @@
       "title": "Catshion Rascador D\u00fao con Juguete Scratch & Play",
       "description": "Rascador con pelota e incluye bolsa de catnip para gatos."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "accesorios-y-otros-rascadores-gato",
+      "Catshion"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2600,7 +2699,6 @@
   },
   {
     "id": "HC000017_m",
-    "type": "cats",
     "handle": "arena-para-gato-klinkat-arena-para-gatos",
     "availableForSale": true,
     "title": "Arena Para Gato Klinkat Arena Para Gatos",
@@ -2682,7 +2780,11 @@
       "title": "Arena Para Gato Klinkat Arena Para Gatos",
       "description": "Arena aglomerante a base de bentonita de alta calidad sin aditivos ni qu\u00edmicos."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-arena-gato",
+      "Klinkat"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2697,7 +2799,6 @@
   },
   {
     "id": "AG000012_m",
-    "type": "cats",
     "handle": "canbo-cuidado-de-esterilizados-sterilized-care-alimento-seco-gato",
     "availableForSale": true,
     "title": "Canbo Cuidado De Esterilizados / Sterilized Care Alimento Seco Gato",
@@ -2779,7 +2880,11 @@
       "title": "Canbo Cuidado De Esterilizados / Sterilized Care Alimento Seco Gato",
       "description": "Alimento exclusivo elaborado con un balance de nutrientes esenciales para la alimentaci\u00f3n del gato esterilizado"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Canbo"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2794,7 +2899,6 @@
   },
   {
     "id": "AG000423",
-    "type": "cats",
     "handle": "monge-indoor-15-kg",
     "availableForSale": true,
     "title": "Monge  Indoor 1.5 kg",
@@ -2820,7 +2924,11 @@
       "title": "Monge  Indoor 1.5 kg",
       "description": "Alimento seco para gatos de interior sabor pollo"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Monge"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2835,7 +2943,6 @@
   },
   {
     "id": "HC000765",
-    "type": "cats",
     "handle": "tkpet-arena-aglomerante-sin-aroma-10-lt-85-kg",
     "availableForSale": true,
     "title": "Tkpet Arena aglomerante sin aroma 10 Lt (8.5 Kg)",
@@ -2867,7 +2974,11 @@
       "title": "Tkpet Arena aglomerante sin aroma 10 Lt (8.5 Kg)",
       "description": "Arena de bentonita sin aroma"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-arena-gato",
+      "Tkpet"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2882,7 +2993,6 @@
   },
   {
     "id": "HC000674_m",
-    "type": "cats",
     "handle": "arena-para-gato-origens-super-premium-100-natural-con-eucalipto",
     "availableForSale": true,
     "title": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto\u00a0",
@@ -2964,7 +3074,11 @@
       "title": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto\u00a0",
       "description": "Arena Para Gato Origens Super Premium 100% Natural Con Eucalipto es una arena sanitaria para gatos completamente natural, dise\u00f1ada para mantener el ambiente fresco y limpio en el arenero. Con su aroma a eucalipto, no solo controla los olores desagradables, sino que tambi\u00e9n brinda una experiencia refrescante para tu mascota y tu hogar. \u00a1Compra ahora y proporciona a tu gato un ambiente higi\u00e9nico y agradable con Origens!"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-arena-gato",
+      "Origens"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -2979,7 +3093,6 @@
   },
   {
     "id": "FF000677",
-    "type": "cats",
     "handle": "rivolta-6-x-075-ml-26kg-a-75kg-1-pipeta",
     "availableForSale": true,
     "title": "Rivolta 6% X 0.75 Ml (2.6kg A 7.5kg) 1 Pipeta",
@@ -3005,7 +3118,11 @@
       "title": "Rivolta 6% X 0.75 Ml (2.6kg A 7.5kg) 1 Pipeta",
       "description": "Antiparasitario externo e interno para gatos a partir de 6 semanas de edad de 2.6 kg hasta 7.5 kg de peso.\nTratamiento y control de infestaciones producidas por pulgas, garrapatas, piojos, \u00e1caros y endopar\u00e1sitos en gatos.\u00a0"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-antipulgas-gato",
+      "Rivolta 6%"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3020,7 +3137,6 @@
   },
   {
     "id": "AG000011_m",
-    "type": "cats",
     "handle": "canbo-gatitos-desarrollo-inicial-initial-development-alimento-seco-gato",
     "availableForSale": true,
     "title": "Canbo Gatitos Desarrollo Inicial / Initial Development Alimento Seco Gato",
@@ -3102,7 +3218,11 @@
       "title": "Canbo Gatitos Desarrollo Inicial / Initial Development Alimento Seco Gato",
       "description": "Alimento seco para gatos hasta 1 a\u00f1o de vida."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Canbo"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3117,7 +3237,6 @@
   },
   {
     "id": "PG000039",
-    "type": "cats",
     "handle": "churu-vet-nourish-atunpollo-venta-por-unidad",
     "availableForSale": true,
     "title": "Churu Vet Nourish At\u00fan/Pollo (Venta por Unidad)",
@@ -3143,7 +3262,11 @@
       "title": "Churu Vet Nourish At\u00fan/Pollo (Venta por Unidad)",
       "description": "Snack de gato de formula veterinaria 100% natural.\n\tExcelente nutrici\u00f3n y alta palatabilidad que ayuda a recuperar el apetito.\n\tVenta por unidad: incluye 1 sachet."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-snacks-gato",
+      "Churu"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3158,7 +3281,6 @@
   },
   {
     "id": "HC000336_m",
-    "type": "cats",
     "handle": "arena-para-gato-cats-best-original",
     "availableForSale": true,
     "title": "Arena Para Gato Cats Best Original",
@@ -3224,7 +3346,11 @@
       "title": "Arena Para Gato Cats Best Original",
       "description": "Arena aglomerante Cat\u2019s Best Original"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-arena-gato",
+      "CatsBest"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3239,7 +3365,6 @@
   },
   {
     "id": "AG000228",
-    "type": "cats",
     "handle": "felix-original-pate-de-pescado-y-atun-156-g",
     "availableForSale": true,
     "title": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156 g",
@@ -3265,7 +3390,11 @@
       "title": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156 g",
       "description": "Felix Original Pat\u00e9 de Pescado y At\u00fan 156g es un delicioso alimento h\u00famedo para gatos con aut\u00e9ntico sabor a pescado y at\u00fan. Con una textura suave y sabrosa, este pat\u00e9 satisfar\u00e1 el paladar de tu felino. \u00a1Compra ahora y deleita a tu gato con esta irresistible comida de Felix!"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-humedo-gato",
+      "Felix"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3280,7 +3409,6 @@
   },
   {
     "id": "PS000361",
-    "type": "cats",
     "handle": "cat-it-magic-blue-cartridge-acom-00727",
     "availableForSale": true,
     "title": "Cat It Magic Blue Cartridge\u00a0 Acom 00727",
@@ -3306,7 +3434,11 @@
       "title": "Cat It Magic Blue Cartridge\u00a0 Acom 00727",
       "description": "Filtro sanitario para literas de gato.\u00a0\nRetiene hasta 80% de amoniaco.\u00a0"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-cajas-y-arena-gato",
+      "Hagen"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3321,7 +3453,6 @@
   },
   {
     "id": "MD002957",
-    "type": "cats",
     "handle": "rascador-olympus-60x37x150-cm-3-pisos",
     "availableForSale": true,
     "title": "Rascador Olympus 60x37x150 Cm 3 Pisos",
@@ -3347,7 +3478,11 @@
       "title": "Rascador Olympus 60x37x150 Cm 3 Pisos",
       "description": "Rascador interactivo de 4 pisos para uno o m\u00e1s gatos.\u00a0\u00a0"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "accesorios-y-otros-rascadores-gato",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3362,7 +3497,6 @@
   },
   {
     "id": "AG000152_m",
-    "type": "cats",
     "handle": "ricocat-adultos-esterilizados-alimento-seco-gato",
     "availableForSale": true,
     "title": "Ricocat Adultos Esterilizados Alimento Seco Gato",
@@ -3428,7 +3562,11 @@
       "title": "Ricocat Adultos Esterilizados Alimento Seco Gato",
       "description": "Alimento seco para gatos esterilizados sabor pescado"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Ricocat"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3443,7 +3581,6 @@
   },
   {
     "id": "PS000341",
-    "type": "cats",
     "handle": "arenero-suez-cats-birds-69-x-42-x-41-cm",
     "availableForSale": true,
     "title": "Arenero Suez Cats & Birds 69 X 42 X 41 Cm",
@@ -3469,7 +3606,11 @@
       "title": "Arenero Suez Cats & Birds 69 X 42 X 41 Cm",
       "description": "Ba\u00f1o sanitario desmontable Suez con decoraci\u00f3n de flores y un ave."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-cajas-y-arena-gato",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3484,7 +3625,6 @@
   },
   {
     "id": "AG000229",
-    "type": "cats",
     "handle": "felix-original-pate-de-salmon-156-g",
     "availableForSale": true,
     "title": "Felix Original Pat\u00e9 de Salm\u00f3n 156 g",
@@ -3510,7 +3650,11 @@
       "title": "Felix Original Pat\u00e9 de Salm\u00f3n 156 g",
       "description": "Felix Original Pat\u00e9 de Salm\u00f3n 156g es un alimento h\u00famedo premium en pat\u00e9 para gatos, con aut\u00e9ntico y delicioso sabor a salm\u00f3n. Con una textura suave y sabrosa, este alimento satisfar\u00e1 el paladar exigente de tu felino. \u00a1Compra ahora y deleita a tu gato con esta irresistible comida de Felix!"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-humedo-gato",
+      "Felix"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3525,7 +3669,6 @@
   },
   {
     "id": "AG000559_m",
-    "type": "cats",
     "handle": "mio-gatto-adulto-esterilizados-alimento-seco-gato",
     "availableForSale": true,
     "title": "Mio Gatto Adulto Esterilizados Alimento Seco Gato",
@@ -3597,7 +3740,11 @@
       "title": "Mio Gatto Adulto Esterilizados Alimento Seco Gato",
       "description": "Alimento seco para gatos esterilizados brinda una alimentaci\u00f3n saludable y baja en calor\u00edas."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Mio Cane"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3612,7 +3759,6 @@
   },
   {
     "id": "PS000336",
-    "type": "cats",
     "handle": "recogedor-de-fecas-con-bolsas",
     "availableForSale": true,
     "title": "Recogedor De Fecas Con Bolsas",
@@ -3638,7 +3784,11 @@
       "title": "Recogedor De Fecas Con Bolsas",
       "description": "Recogedor pr\u00e1ctico para evitar agacharse, f\u00e1cil de limpiar, 66 x 15.5 x 13.5 cm."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-cajas-y-arena-gato",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3653,7 +3803,6 @@
   },
   {
     "id": "AG000245",
-    "type": "cats",
     "handle": "hills-pd-id-digestive-care-55-oz-156gr",
     "availableForSale": true,
     "title": "Hills PD i/d Digestive Care 5.5 oz 156gr",
@@ -3679,7 +3828,11 @@
       "title": "Hills PD i/d Digestive Care 5.5 oz 156gr",
       "description": "Hill's PD i/d Digestive Care es un alimento indicado para el manejo nutricional de gatos con trastornos gastrointestinales y para aquellos en proceso de recuperaci\u00f3n. Con una f\u00f3rmula cuidadosamente equilibrada, ayuda a promover una digesti\u00f3n saludable y facilita la recuperaci\u00f3n de tu felino. \u00a1Compra ahora para brindarle el cuidado que necesita!"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-humedo-gato",
+      "Hills"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3694,7 +3847,6 @@
   },
   {
     "id": "AG000093",
-    "type": "cats",
     "handle": "hills-pd-cd-multicare-18kg-cuidado-urinario-multicuidado",
     "availableForSale": true,
     "title": "Hills PD c/d Multicare 1.8kg Cuidado urinario Multicuidado",
@@ -3720,7 +3872,11 @@
       "title": "Hills PD c/d Multicare 1.8kg Cuidado urinario Multicuidado",
       "description": "Hill's PD c/d Multicare es un alimento seco para gatos dise\u00f1ado para el cuidado urinario multicuidado. Proporciona un balance correcto de nutrientes vitales para ayudar a mejorar la salud de las v\u00edas urinarias de los gatos."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Hills"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3735,7 +3891,6 @@
   },
   {
     "id": "AG000069",
-    "type": "cats",
     "handle": "hills-pd-cd-multi-stress-cuidado-urinario-multi-estres-181-kg",
     "availableForSale": true,
     "title": "Hills PD c/d Multi Stress Cuidado urinario Multi Estr\u00e9s 1.81 Kg",
@@ -3761,7 +3916,11 @@
       "title": "Hills PD c/d Multi Stress Cuidado urinario Multi Estr\u00e9s 1.81 Kg",
       "description": "Hill's PD c/d Multi Stress es un alimento seco especialmente formulado para gatos que necesitan controlar el estr\u00e9s y cuidar su salud urinaria. Esta f\u00f3rmula ayuda a mantener la salud del tracto urinario de tu gato y reduce el riesgo de la formaci\u00f3n de c\u00e1lculos urinarios. Adem\u00e1s, est\u00e1 dise\u00f1ado para ayudar a gestionar el estr\u00e9s en situaciones que pueden afectar negativamente a la salud urinaria de tu mascota, como cambios en el ambiente, mudanzas o visitas al veterinario. Es una opci\u00f3n completa y equilibrada para cuidar la salud integral de tu gato."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-medicado-gato",
+      "Hills"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3776,7 +3935,6 @@
   },
   {
     "id": "HC000434_m",
-    "type": "cats",
     "handle": "cats-best-smart-pellets",
     "availableForSale": true,
     "title": "Cats Best Smart Pellets",
@@ -3842,7 +4000,11 @@
       "title": "Cats Best Smart Pellets",
       "description": "Arena para gato"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-arena-gato",
+      "CatsBest"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3857,7 +4019,6 @@
   },
   {
     "id": "PG000046",
-    "type": "cats",
     "handle": "churu-fun-bites-atun-y-ostiones",
     "availableForSale": true,
     "title": "Churu Fun Bites At\u00fan Y Ostiones",
@@ -3883,7 +4044,11 @@
       "title": "Churu Fun Bites At\u00fan Y Ostiones",
       "description": "Churu Fun Bites At\u00fan y Ostiones es un snack saludable para gatos en forma de taquito, con delicioso relleno de crema y aut\u00e9ntico sabor a pollo y ostiones. Enriquecido con taurina y vitamina E para promover la salud y vitalidad de tu felino. Adem\u00e1s, est\u00e1 libre de granos, conservantes y colorantes. \u00a1Compra ahora y consiente a tu gato con este irresistible premio!"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-snacks-gato",
+      "Churu"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3898,7 +4063,6 @@
   },
   {
     "id": "AP000810",
-    "type": "cats",
     "handle": "hant-gato-res-gato-500-g",
     "availableForSale": true,
     "title": "Hant Gato: Res Gato 500 g",
@@ -3936,7 +4100,11 @@
       "title": "Hant Gato: Res Gato 500 g",
       "description": "Hant Gato: Res Gato 500g ofrece alb\u00f3ndigas de res 100% naturales, especialmente formuladas para gatos. Este alimento proporciona una opci\u00f3n nutritiva y sabrosa para satisfacer las necesidades alimenticias de tu felino. \u00a1Compra ahora y brinda a tu gato una alimentaci\u00f3n natural y de calidad con Hant!"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-BARF-gato",
+      "Hant"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3951,7 +4119,6 @@
   },
   {
     "id": "AG000561",
-    "type": "cats",
     "handle": "salvaje-esterilizado-gato-12kg",
     "availableForSale": true,
     "title": "Salvaje Esterilizado Gato 12kg",
@@ -3977,7 +4144,11 @@
       "title": "Salvaje Esterilizado Gato 12kg",
       "description": "Alimento seco elaborado para mantener saludable y sano a tu gato adulto esterilizado."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Salvaje"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -3992,7 +4163,6 @@
   },
   {
     "id": "AG000383",
-    "type": "cats",
     "handle": "gran-plus-gato-adulto-salmon-y-arroz-10kg",
     "availableForSale": true,
     "title": "Gran Plus Gato Adulto Salmon y Arroz 10kg",
@@ -4018,7 +4188,11 @@
       "title": "Gran Plus Gato Adulto Salmon y Arroz 10kg",
       "description": "Nutrici\u00f3n de alta calidad para tu gato adulto. Con delicioso salm\u00f3n y arroz, esta f\u00f3rmula proporciona los nutrientes esenciales que tu mascota necesita para mantenerse saludable y feliz. \u00a1Descubre el equilibrio perfecto entre sabor y nutrici\u00f3n con Gran Plus!"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Gran Plus"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4033,7 +4207,6 @@
   },
   {
     "id": "AG000124_m",
-    "type": "cats",
     "handle": "proplan-sterelized-cat-gato-esterilizado-alimento-seco-gato",
     "availableForSale": true,
     "title": "Proplan Sterelized Cat Gato Esterilizado Alimento Seco Gato",
@@ -4099,7 +4272,11 @@
       "title": "Proplan Sterelized Cat Gato Esterilizado Alimento Seco Gato",
       "description": "Pro Plan Sterilized Cat Alimento Seco para Gato Esterilizado es una opci\u00f3n completa y balanceada dise\u00f1ada espec\u00edficamente para satisfacer las necesidades nutricionales de los gatos adultos castrados o esterilizados. Esta f\u00f3rmula ayuda a controlar el peso y a mantener la salud del tracto urinario, brindando a tu gato una nutrici\u00f3n \u00f3ptima para su estilo de vida. \u00a1Compra ahora y brinda a tu gato esterilizado una alimentaci\u00f3n equilibrada y deliciosa con Pro Plan!"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Pro Plan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4114,7 +4291,6 @@
   },
   {
     "id": "AG000120_m",
-    "type": "cats",
     "handle": "proplan-kitten-gatitos-alimento-seco-gato",
     "availableForSale": true,
     "title": "Proplan Kitten Gatitos Alimento Seco Gato",
@@ -4180,7 +4356,11 @@
       "title": "Proplan Kitten Gatitos Alimento Seco Gato",
       "description": "Pro Plan Kitten Alimento Seco para Gatitos es una opci\u00f3n balanceada dise\u00f1ada espec\u00edficamente para satisfacer las necesidades nutricionales de los gatitos en crecimiento, hasta los 12 meses de edad. Este alimento seco proporciona los nutrientes esenciales que los gatitos necesitan para un desarrollo saludable, y su delicioso sabor los har\u00e1 disfrutar cada bocado. \u00a1Compra ahora y brinda a tu gatito la mejor nutrici\u00f3n con Pro Plan!"
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "alimentos-seco-gato",
+      "Pro Plan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4195,7 +4375,6 @@
   },
   {
     "id": "PS000720_m",
-    "type": "cats",
     "handle": "lmb-faja-post-operatorio-hembra-palorosa",
     "availableForSale": true,
     "title": "Lmb Faja Post Operatorio Hembra Palorosa",
@@ -4343,7 +4522,11 @@
       "title": "Lmb Faja Post Operatorio Hembra Palorosa",
       "description": "Faja Post operatorio, Protecci\u00f3n y comodidad para tu mascota. Prenda de algod\u00f3n anat\u00f3micamente ajustable, brind\u00e1ndole flexibilidad en el proceso de recuperaci\u00f3n de su mascota. Tela 95% de algod\u00f3n 5% licra."
     },
-    "tags": [],
+    "tags": [
+      "cats",
+      "Salud-e-higiene-fajas-quirurgica-perro",
+      "La mascoteria de Brenan"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4358,7 +4541,6 @@
   },
   {
     "id": "MD007435_m",
-    "type": "others",
     "handle": "mpets-training-wheel-rueda-para-roedores",
     "availableForSale": true,
     "title": "Mpets Training Wheel Rueda Para Roedores",
@@ -4430,7 +4612,11 @@
       "title": "Mpets Training Wheel Rueda Para Roedores",
       "description": "Rueda giratoria para hamsters y ratones enanos."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4445,7 +4631,6 @@
   },
   {
     "id": "MD007437_m",
-    "type": "others",
     "handle": "mpets-hamster-ball-pelota-para-roedores",
     "availableForSale": true,
     "title": "Mpets Hamster Ball Pelota Para Roedores",
@@ -4517,7 +4702,11 @@
       "title": "Mpets Hamster Ball Pelota Para Roedores",
       "description": "Juguete en forma de esfera para h\u00e1mster."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4532,7 +4721,6 @@
   },
   {
     "id": "PS000680_m",
-    "type": "others",
     "handle": "mpets-flaska-bebedero-para-pequenos-animales",
     "availableForSale": true,
     "title": "Mpets Flaska Bebedero Para Peque\u00f1os Animales",
@@ -4638,7 +4826,11 @@
       "title": "Mpets Flaska Bebedero Para Peque\u00f1os Animales",
       "description": "Bebedero para animales peque\u00f1os. Contiene 1 unidad. Colores surtidos incluye verde, azul, naranja o rojo (Recibir\u00e1s un color y/o dise\u00f1o al azar seg\u00fan stock)."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4653,7 +4845,6 @@
   },
   {
     "id": "PS000683",
-    "type": "others",
     "handle": "mpets-chester-casa-para-hamster",
     "availableForSale": true,
     "title": "Mpets Chester Casa Para Hamster",
@@ -4685,7 +4876,11 @@
       "title": "Mpets Chester Casa Para Hamster",
       "description": "Casa transportadora para hamsters."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4700,7 +4895,6 @@
   },
   {
     "id": "PS000818",
-    "type": "others",
     "handle": "habitat-pequenas-mascotas-l-281-x-181-x-18-cm",
     "availableForSale": true,
     "title": "Habitat Peque\u00f1as Mascotas L 28,1 X 18,1 X 18 Cm",
@@ -4726,7 +4920,11 @@
       "title": "Habitat Peque\u00f1as Mascotas L 28,1 X 18,1 X 18 Cm",
       "description": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla L: 28,1 x 18,1 x 18 cm\n\tPeso m\u00e1ximo \n5.2 kg"
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4741,7 +4939,6 @@
   },
   {
     "id": "PS000817",
-    "type": "others",
     "handle": "habitat-pequenas-mascotas-m-225-x-15-x-15-cm",
     "availableForSale": true,
     "title": "Habitat Peque\u00f1as Mascotas M 22,5 X 15 X 15 Cm",
@@ -4767,7 +4964,11 @@
       "title": "Habitat Peque\u00f1as Mascotas M 22,5 X 15 X 15 Cm",
       "description": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla M: 22,5 x 15 x 15 cm\n\tPeso m\u00e1ximo \n2.7 kg"
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4782,7 +4983,6 @@
   },
   {
     "id": "PS000816",
-    "type": "others",
     "handle": "habitat-pequenas-mascotas-s-18-x-119-x-129-cm",
     "availableForSale": true,
     "title": "Habitat Peque\u00f1as Mascotas S 18 X 11,9 X 12,9 Cm",
@@ -4808,7 +5008,11 @@
       "title": "Habitat Peque\u00f1as Mascotas S 18 X 11,9 X 12,9 Cm",
       "description": "H\u00e1bitat para animales peque\u00f1os con tapas bien ventiladas.\n\tTalla S: 18 x 11,9 x 12,9 cm\n\tPeso m\u00e1ximo \n1.4 kg"
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4823,7 +5027,6 @@
   },
   {
     "id": "PS000813",
-    "type": "others",
     "handle": "bebedero-de-vidrio-pequenas-mascotas-177-ml",
     "availableForSale": true,
     "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 177 Ml",
@@ -4849,7 +5052,11 @@
       "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 177 Ml",
       "description": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 177 ml"
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4864,7 +5071,6 @@
   },
   {
     "id": "PS000814",
-    "type": "others",
     "handle": "bebedero-de-vidrio-pequenas-mascotas-350-ml",
     "availableForSale": true,
     "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 350 Ml",
@@ -4890,7 +5096,11 @@
       "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 350 Ml",
       "description": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 350 ml"
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4905,7 +5115,6 @@
   },
   {
     "id": "PS000815",
-    "type": "others",
     "handle": "bebedero-de-vidrio-pequenas-mascotas-750-ml",
     "availableForSale": true,
     "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 750 Ml",
@@ -4931,7 +5140,11 @@
       "title": "Bebedero De Vidrio Peque\u00f1as Mascotas 750 Ml",
       "description": "Bebedero de vidrio higi\u00e9nico y a prueba de fugas.\n\tLa botella de agua de vidrio es a prueba de masticaci\u00f3n, manteniendo el pl\u00e1stico da\u00f1ino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y p\u00e1jaros pueden usar esta botella de agua de vidrio.\n\tMedida: 750 ml"
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4946,7 +5159,6 @@
   },
   {
     "id": "PS000684",
-    "type": "others",
     "handle": "mpets-derby-casa-para-hamster",
     "availableForSale": true,
     "title": "Mpets Derby Casa Para Hamster",
@@ -4978,7 +5190,11 @@
       "title": "Mpets Derby Casa Para Hamster",
       "description": "Caja transportadora para hamsters, ideal para paseos."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "mascotas-pequenas",
+      "Mpets"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -4993,7 +5209,6 @@
   },
   {
     "id": "MD005226",
-    "type": "others",
     "handle": "small-life-bola-ejercicio-125",
     "availableForSale": true,
     "title": "Small Life Bola Ejercicio 12.5",
@@ -5019,7 +5234,11 @@
       "title": "Small Life Bola Ejercicio 12.5",
       "description": "Bola de ejercicio y de diversi\u00f3n para roedores."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "superdays",
+      "Small Life"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -5034,7 +5253,6 @@
   },
   {
     "id": "PS000553_m",
-    "type": "others",
     "handle": "small-life-carrier",
     "availableForSale": true,
     "title": "Small Life Carrier\u00a0",
@@ -5100,7 +5318,11 @@
       "title": "Small Life Carrier\u00a0",
       "description": "Transportador muy ligero para roedores peque\u00f1os."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "viajes-y-aire-libre",
+      "Small Life"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -5115,7 +5337,6 @@
   },
   {
     "id": "MD005224",
-    "type": "others",
     "handle": "small-life-comedero-roedor-cup-300ml",
     "availableForSale": true,
     "title": "Small Life Comedero Roedor Cup 300Ml",
@@ -5141,7 +5362,11 @@
       "title": "Small Life Comedero Roedor Cup 300Ml",
       "description": "Comedero para roedores de color verde con una capacidad de 300 ml."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "superdays",
+      "Small Life"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -5156,7 +5381,6 @@
   },
   {
     "id": "MD005225",
-    "type": "others",
     "handle": "small-life-comedero-roedor-cup-600ml",
     "availableForSale": true,
     "title": "Small Life Comedero Roedor Cup 600Ml",
@@ -5182,7 +5406,11 @@
       "title": "Small Life Comedero Roedor Cup 600Ml",
       "description": "Comedero para roedores de color verde con una capacidad de 300 ml."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "superdays",
+      "Small Life"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -5197,7 +5425,6 @@
   },
   {
     "id": "MD005228",
-    "type": "others",
     "handle": "small-life-esquin-m-415x29x20",
     "availableForSale": true,
     "title": "Small Life Esquin M 41.5X29X20",
@@ -5223,7 +5450,11 @@
       "title": "Small Life Esquin M 41.5X29X20",
       "description": "Bandeja higi\u00e9nica con un dise\u00f1o esquinero para una limpieza f\u00e1cil, para peque\u00f1os roedores."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "superdays",
+      "Small Life"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -5238,7 +5469,6 @@
   },
   {
     "id": "MD005227",
-    "type": "others",
     "handle": "small-life-esquin-s-32x22x145",
     "availableForSale": true,
     "title": "Small Life Esquin S 32X22X14.5",
@@ -5264,7 +5494,11 @@
       "title": "Small Life Esquin S 32X22X14.5",
       "description": "Bandeja higi\u00e9nica con un dise\u00f1o esquinero para una limpieza f\u00e1cil, para peque\u00f1os roedores."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "superdays",
+      "Small Life"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {
@@ -5279,7 +5513,6 @@
   },
   {
     "id": "PS000552",
-    "type": "others",
     "handle": "small-life-hay-feeder",
     "availableForSale": true,
     "title": "Small Life Hay Feeder",
@@ -5305,7 +5538,11 @@
       "title": "Small Life Hay Feeder",
       "description": "Henera para roedores con enganches para poder colocarlo en la jaula."
     },
-    "tags": [],
+    "tags": [
+      "others",
+      "hogar",
+      "Small Life"
+    ],
     "updatedAt": "2024-08.03",
     "priceRange": {
       "maxVariantPrice": {

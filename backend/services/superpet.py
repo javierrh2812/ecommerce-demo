@@ -77,7 +77,6 @@ class SuperPet:
         product = data['product']
         new_data = {
             'id': product['id'],
-            'type': type_,
             'handle': slugify(product['productName']),
             'availableForSale': product['available'],
             'title': product['productName'],
@@ -91,7 +90,7 @@ class SuperPet:
                 "title": product['productName'],
                 "description": product['shortDescription']
             },
-            'tags': [],
+            'tags': [type_, product['itemCategory'], product['brand']],
             'updatedAt': '2024-08.03',
         }
 
