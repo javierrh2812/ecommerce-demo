@@ -45,9 +45,8 @@ export function EditItemQuantityButton({
 
   return (
     <form
-      action={async () => {
+      action={() => {
         optimisticUpdate(payload.merchandiseId, type);
-        await actionWithVariant();
       }}
     >
       <SubmitButton type={type} />

@@ -18,9 +18,8 @@ export function DeleteItemButton({
 
   return (
     <form
-      action={async () => {
+      action={() => {
         optimisticUpdate(merchandiseId, 'delete');
-        await actionWithVariant();
       }}
     >
       <button
