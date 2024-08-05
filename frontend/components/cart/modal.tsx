@@ -78,7 +78,7 @@ export default function CartModal() {
           >
             <Dialog.Panel className="fixed bottom-0 right-0 top-0 flex h-full w-full flex-col border-l border-neutral-200 bg-white/80 p-6 text-black backdrop-blur-xl md:w-[390px] dark:border-neutral-700 dark:bg-black/80 dark:text-white">
               <div className="flex items-center justify-between">
-                <p className="text-lg font-semibold">My Cart</p>
+                <p className="text-lg font-semibold">Carrito de compras</p>
                 <button aria-label="Close cart" onClick={closeCart}>
                   <CloseCart />
                 </button>
@@ -178,7 +178,7 @@ export default function CartModal() {
                   </ul>
                   <div className="py-4 text-sm text-neutral-500 dark:text-neutral-400">
                     <div className="mb-3 flex items-center justify-between border-b border-neutral-200 pb-1 dark:border-neutral-700">
-                      <p>Taxes</p>
+                      <p>Impuestos</p>
                       <Price
                         className="text-right text-base text-black dark:text-white"
                         amount={cart.cost.totalTaxAmount.amount}
@@ -186,8 +186,8 @@ export default function CartModal() {
                       />
                     </div>
                     <div className="mb-3 flex items-center justify-between border-b border-neutral-200 pb-1 pt-1 dark:border-neutral-700">
-                      <p>Shipping</p>
-                      <p className="text-right">Calculated at checkout</p>
+                      <p>Envío</p>
+                      <p className="text-right">Pendiente</p>
                     </div>
                     <div className="mb-3 flex items-center justify-between border-b border-neutral-200 pb-1 pt-1 dark:border-neutral-700">
                       <p>Total</p>
@@ -220,7 +220,7 @@ function CheckoutButton() {
       type="submit"
       disabled={pending}
     >
-      {pending ? <LoadingDots className="bg-white" /> : 'Proceed to Checkout'}
+      {pending ? <LoadingDots className="bg-white" /> : 'Realizar pedido'}
     </button>
   );
 }
