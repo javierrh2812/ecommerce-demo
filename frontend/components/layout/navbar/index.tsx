@@ -7,7 +7,7 @@ import { Suspense } from 'react';
 import MobileMenu from './mobile-menu';
 import Search, { SearchSkeleton } from './search';
 
-const { SITE_NAME } = process.env;
+const SITE_NAME = process.env.SITE_NAME || 'Mascotamigo.pe';
 
 export async function Navbar() {
   const menu = await getMenu('frontend-header');
@@ -26,7 +26,8 @@ export async function Navbar() {
             prefetch={true}
             className="mr-2 flex w-full items-center justify-center md:w-auto lg:mr-6"
           >
-            <LogoSquare />
+            <img src="/images/logo.jpeg" className="h-[60px] w-[60px]" />
+            {/* <LogoSquare /> */}
             <div className="ml-2 flex-none text-sm font-medium uppercase md:hidden lg:block">
               {SITE_NAME}
             </div>

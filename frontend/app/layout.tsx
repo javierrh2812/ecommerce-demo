@@ -34,8 +34,6 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
           <Navbar />
           <main>
             {children}
-            <Toaster closeButton />
-            <WelcomeToast />
           </main>
         </CartProvider>
       </body>
