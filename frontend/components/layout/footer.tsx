@@ -6,9 +6,9 @@ import Link from 'next/link';
 const { COMPANY_NAME, SITE_NAME } = process.env;
 
 const SOCIAL: { icon: any; href: string }[] = [
-  { icon: FaInstagram, href: 'https://www.instagram.com' },
-  { icon: FaFacebook, href: 'https://www.facebook.com' },
-  { icon: FaTiktok, href: 'https://www.tiktok.com' }
+  // { icon: FaInstagram, href: 'https://www.instagram.com' },
+  { icon: FaFacebook, href: 'https://www.facebook.com/profile.php?id=61563820415339' },
+  // { icon: FaTiktok, href: 'https://www.tiktok.com' }
 ];
 
 export default async function Footer() {
@@ -38,7 +38,7 @@ export default async function Footer() {
           <p className="flex gap-2">
             {SOCIAL.map((social) => {
               return (
-                <a key={social.href} href={social.href}>
+                <a key={social.href} href={social.href} target='_blank'>
                   {social.icon()}
                 </a>
               );

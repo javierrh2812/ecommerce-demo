@@ -97,11 +97,11 @@ export async function updateItemQuantity(
 }
 
 export async function redirectToCheckout() {
-  let cartId = cookies().get('cartId')?.value;
+  let cartId = "CartdId";
 
-  if (!cartId) {
-    return 'Missing cart ID';
-  }
+  // if (!cartId) {
+  //   return 'Missing cart ID';
+  // }
 
   let cart = await getCart(cartId);
 
