@@ -154,8 +154,8 @@ export const PAGES: Page[] = [
   <section>
     <h2>6. Ley Aplicable</h2>
     <p>
-      Estos términos y condiciones se regirán e interpretarán de acuerdo con las leyes de [País/Región]. 
-      Cualquier disputa que surja en relación con estos términos estará sujeta a la jurisdicción exclusiva de los tribunales de [País/Región].
+      Estos términos y condiciones se regirán e interpretarán de acuerdo con las leyes de Perú. 
+      Cualquier disputa que surja en relación con estos términos estará sujeta a la jurisdicción exclusiva de los tribunales de Perú.
     </p>
   </section>
   
